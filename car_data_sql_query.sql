@@ -1,4 +1,10 @@
+-- Create a Database then use the Database
+
 use car_data_db;
+
+-- Create a Table having Colums:
+
+--'Car_Model', 'Brand', 'Car_Name', 'Car_Variant', 'Car_Transmission', 'KM_Driven', 'Owner_Type', 'Fuel_Type', 'Registration_ID', 'Monthly_EMI', 'Car_Price(lakh)', 'Downpayment_Amount', 'Location'
 
 show tables;
 
