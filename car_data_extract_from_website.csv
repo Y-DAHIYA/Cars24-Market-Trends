@@ -1,0 +1,1057 @@
+Car_Model,Brand,Car_Name,Car_Variant,Car_Transmission,KM_Driven,Owner_Type,Fuel_Type,Registration_ID,Monthly_EMI,Car_Price,Downpayment_Amount,Location
+2016,Maruti,Alto,800 LXI,Manual,"97,698 km",2nd Owner,Petrol,HR72-C5902,"₹4,712",₹2.41 Lakh,0,"Chhatarpur, Delhi"
+2015,Maruti,Swift,VXI,Manual,"1,02,460 km",1st Owner,Petrol,HR26-CS8633,"₹7,407",₹3.33 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Honda,Jazz,1.2L I-VTEC V,Manual,"12,425 km",1st Owner,Petrol,DL1C-Z2806,"₹11,183",₹5.72 Lakh,0,"Chhatarpur, Delhi"
+2019,Hyundai,Verna,1.6 VTVT SX,Manual,"34,032 km",1st Owner,Petrol,DL11-CB6585,"₹16,217",₹8.52 Lakh,0,"Chhatarpur, Delhi"
+2019,Maruti,Baleno,DELTA PETROL 1.2,Manual,"35,190 km",1st Owner,Petrol,DL9C-AR6649,"₹10,889",₹5.57 Lakh,0,"Chhatarpur, Delhi"
+2020,Mahindra,XUV300,W8 (O) 1.5 DIESEL AMT,Automatic,"64,038 km",1st Owner,Diesel,DL10-CP1750,"₹17,093",₹8.98 Lakh,0,"Chhatarpur, Delhi"
+2017,Tata,NEXON,XZ PLUS PETROL,Manual,"82,375 km",1st Owner,Petrol,DL3C-CN3382,"₹11,769",₹6.02 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Maruti,Celerio,VXI,Manual,"48,066 km",1st Owner,Petrol,HR31-P4743,"₹7,312",₹3.74 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Toyota,Glanza,V,Manual,"14,642 km",1st Owner,Petrol,DL3C-CR6076,"₹12,590",₹6.44 Lakh,0,"Chhatarpur, Delhi"
+2021,Tata,ALTROZ,XM PLUS PETROL,Manual,"49,461 km",1st Owner,Petrol,DL3C-CU6737,"₹12,297",₹6.29 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Hyundai,VENUE,SX 1.0 TURBO,Manual,"43,417 km",2nd Owner,Petrol,HR35-R2928,"₹16,579",₹8.71 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2024,Hyundai,NEW,I20 Sportz (O) 1.2 IVT,Automatic,"3,295 km",1st Owner,Petrol,DL10-CX5138,"₹19,015",₹9.99 Lakh,0,"Chhatarpur, Delhi"
+2020,Hyundai,GRAND,I10 NIOS MAGNA CORPORATE EDITION 1.2 KAPPA VTVT,Manual,"20,631 km",2nd Owner,Petrol,DL8C-BA8034,"₹10,772",₹5.51 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Maruti,Baleno,ZETA PETROL 1.2,Manual,"21,221 km",1st Owner,Petrol,DL12-CR0362,"₹12,692",₹6.49 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2011,Hyundai,i20,MAGNA 1.2,Manual,"78,624 km",1st Owner,Petrol,DL8C-T7479,"₹8,614",₹1.83 Lakh,0,"Chhatarpur, Delhi"
+2017,Maruti,Swift,LXI (O),Manual,"23,582 km",1st Owner,Petrol,DL5C-N9021,"₹8,641",₹4.42 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Maruti,Swift,LXI (O),Manual,"47,657 km",1st Owner,Petrol,DL8C-AQ6888,"₹8,524",₹4.36 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Maruti,Alto,800 LXI,Manual,"39,074 km",1st Owner,Petrol,DL8C-AT7886,"₹5,259",₹2.69 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Volkswagen,Ameo,HIGHLINE PLUS 1.0L 16 ALLOY,Manual,"40,904 km",1st Owner,Petrol,DL12-CQ2156,"₹9,306",₹4.76 Lakh,0,"Chhatarpur, Delhi"
+2020,Honda,City,1.5L I-VTE V CVT,Automatic,"55,879 km",1st Owner,Petrol,DL14-CE8647,"₹16,769",₹8.81 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Honda,City,1.5L I-VTE V CVT,Automatic,"34,459 km",1st Owner,Petrol,HR98-C3703,"₹19,834",₹10.42 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2015,Honda,City,1.5L I-VTEC V MT,Manual,"89,726 km",1st Owner,Petrol,DL4C-AW6116,"₹10,655",₹5.45 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Maruti,Dzire,LXI,Manual,"38,776 km",1st Owner,Petrol,HR26-DN2581,"₹10,080",₹5.16 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Hyundai,Elite,i20 MAGNA EXECUTIVE 1.2,Manual,"27,659 km",3rd Owner,Petrol,DL7C-Q1752,"₹9,521",₹4.87 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Volkswagen,Ameo,TRENDLINE 1.2L,Manual,"67,835 km",2nd Owner,Petrol,DL8C-AT1360,"₹7,351",₹3.76 Lakh,0,"Chhatarpur, Delhi"
+2022,Hyundai,Creta,EX 1.5 PETROL,Manual,"19,352 km",1st Owner,Petrol,DL5C-T9459,"₹21,908",₹11.51 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2022,Tata,PUNCH,ACCOMPLISHED MT,Manual,"21,955 km",1st Owner,Petrol,DL11-CC9237,"₹13,093",₹6.7 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2015,Toyota,Etios,CROSS 1.2 G,Manual,"79,927 km",1st Owner,Petrol,DL8C-AK5321,"₹6,647",₹3.4 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2014,Maruti,Ritz,VXI,Manual,"57,273 km",1st Owner,Petrol,HR26-CG6936,"₹6,162",₹2.77 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2015,Honda,Amaze,1.2L I-VTEC S,Manual,"41,525 km",1st Owner,Petrol,HR26-CP5807,"₹7,175",₹3.67 Lakh,0,"Chhatarpur, Delhi"
+2022,Nissan,MAGNITE,XE,Manual,"26,453 km",1st Owner,Petrol,HR26-EY1174,"₹11,241",₹5.75 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,KIA,SELTOS,HTK PLUS 1.5,Manual,"27,143 km",1st Owner,Petrol,DL12-CR7042,"₹18,768",₹9.86 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Datsun,Go,Plus T (O),Manual,"23,055 km",2nd Owner,CNG,DL8C-AT6320,"₹6,598",₹3.38 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Maruti,Swift,ZXI PLUS,Manual,"27,158 km",2nd Owner,Petrol,DL8C-AX2149,"₹12,004",₹6.14 Lakh,0,"Chhatarpur, Delhi"
+2021,Nissan,MAGNITE,XE,Manual,"30,455 km",1st Owner,Petrol,DL8C-BC7865,"₹10,420",₹5.33 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Renault,Kwid,RXT 1.0 (O),Manual,"73,117 km",1st Owner,Petrol,HR26-DY6209,"₹6,354",₹3.25 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Maruti,Dzire,LXI,Manual,"22,148 km",1st Owner,Petrol,DL5C-N9906,"₹9,384",₹4.8 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Tata,NEXON,XZ PLUS DIESEL SUNROOF,Manual,"32,265 km",1st Owner,Diesel,DL9C-AW1889,"₹18,273",₹9.6 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2022,Maruti,Eeco,5 STR AC CNG,Manual,"10,783 km",1st Owner,CNG,DL8C-BD4954,"₹11,984",₹6.13 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Toyota,Fortuner,2.8 4X2 AT,Automatic,"1,03,102 km",1st Owner,Diesel,DL8C-AQ2032,"₹72,516",₹22.15 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Honda,City,1.5L I-VTEC ZX,Manual,"33,671 km",1st Owner,Petrol,HR87-D0209,"₹16,228",₹8.53 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Maruti,Swift,LXI (O),Manual,"55,602 km",1st Owner,Petrol,DL12-CL2293,"₹8,055",₹4.12 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2015,Maruti,Wagon,R Stingray VXI,Manual,"66,325 km",1st Owner,Petrol,DL9C-AE6458,"₹6,510",₹3.33 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2014,Honda,City,1.5L I-VTEC VX CVT,Automatic,"69,403 km",1st Owner,Petrol,HR26-CG9625,"₹12,323",₹5.54 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Renault,Kwid,CLIMBER 1.0 AMT,Automatic,"41,308 km",3rd Owner,Petrol,HR31-M8402,"₹5,924",₹3.03 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Tata,ALTROZ,XT PETROL,Manual,"21,656 km",1st Owner,Petrol,DL7C-R9021,"₹12,336",₹6.31 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2012,Hyundai,Verna,FLUIDIC 1.6 VTVT EX,Manual,"38,005 km",1st Owner,Petrol,DL12-CE1470,"₹13,243",₹3.99 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Honda,City,1.5L I-VTEC ZX,Manual,"5,404 km",1st Owner,Petrol,DL4C-BA7906,"₹23,812",₹12.51 Lakh,0,"Chhatarpur, Delhi"
+2020,Maruti,Celerio,LXI (O),Manual,"54,485 km",1st Owner,Petrol,HR26-EJ9588,"₹7,312",₹3.74 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2023,Tata,Tiago,XM CNG,Manual,"17,340 km",1st Owner,CNG,DL9C-BB1230,"₹11,750",₹6.01 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Mahindra,XUV300,W6 1.2 PETROL,Manual,"40,924 km",1st Owner,Petrol,DL7C-R5127,"₹13,714",₹7.01 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2022,Tata,NEXON,XZ PETROL,Manual,"27,385 km",1st Owner,Petrol,DL1C-AF5290,"₹16,046",₹8.43 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Maruti,Wagon,R 1.0 VXI AMT,Automatic,"27,391 km",1st Owner,Petrol,DL8C-AU8609,"₹8,172",₹4.18 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,KIA,SONET,HTK PLUS 1.0 DCT,Automatic,"27,310 km",1st Owner,Petrol,DL1C-AH5396,"₹17,797",₹9.35 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Maruti,Ciaz,DELTA AT 1.5 SHVS PETROL,Automatic,"52,112 km",1st Owner,Petrol,DL3C-CQ5458,"₹14,799",₹7.57 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Renault,TRIBER,RXL MT,Manual,"33,392 km",1st Owner,Petrol,HR26-EH6708,"₹9,814",₹5.02 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2015,Maruti,Wagon,R 1.0 VXI,Manual,"46,592 km",1st Owner,Petrol,DL8C-AG4568,"₹6,002",₹3.07 Lakh,0,"Chhatarpur, Delhi"
+2015,Hyundai,Elite,i20 MAGNA 1.2,Manual,"38,116 km",1st Owner,Petrol,DL10-CS6590,"₹8,348",₹4.27 Lakh,0,"Chhatarpur, Delhi"
+2019,Hyundai,GRAND,I10 NIOS SPORTZ 1.2 KAPPA VTVT,Manual,"29,932 km",1st Owner,Petrol,HR52-F5035,"₹10,166",₹5.2 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Mahindra,XUV300,W8 (O) 1.2 PETROL,Manual,"52,895 km",1st Owner,Petrol,DL7C-R0352,"₹15,230",₹7.79 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Hyundai,VENUE,SX 1.0 TURBO IMT,Manual,"43,632 km",1st Owner,Petrol,DL7C-S1911,"₹15,932",₹8.37 Lakh,0,"Chhatarpur, Delhi"
+2019,Renault,Kwid,RXT 1.0 AMT (O),Automatic,"13,568 km",1st Owner,Petrol,DL10-CN6406,"₹8,016",₹4.1 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Maruti,Baleno,DELTA PETROL 1.2,Manual,"77,462 km",2nd Owner,Petrol,HR87-C8871,"₹8,866",₹4.54 Lakh,0,"Chhatarpur, Delhi"
+2020,MG,HECTOR,SMART HYBRID 1.5 PETROL,Manual,"38,585 km",2nd Owner,Petrol,DL3C-CS2217,"₹23,488",₹12.34 Lakh,0,"Chhatarpur, Delhi"
+2019,Hyundai,Elite,i20 MAGNA PLUS 1.4 CRDI,Manual,"62,874 km",1st Owner,Diesel,DL4C-AZ1779,"₹13,792",₹6.2 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Renault,Kwid,RXT 1.0 (O),Manual,"46,746 km",1st Owner,CNG,HR51-CE4506,"₹7,234",₹3.7 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2022,KIA,SONET,HTK PLUS 1.2,Manual,"12,265 km",1st Owner,Petrol,DL8C-BD5644,"₹16,350",₹8.59 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Honda,Amaze,1.2L I-VTEC S,Manual,"47,429 km",1st Owner,Petrol,DL10-CN1355,"₹10,733",₹5.49 Lakh,0,"Chhatarpur, Delhi"
+2019,Maruti,New,Wagon-R VXI 1.2 AMT,Automatic,"12,716 km",1st Owner,Petrol,DL8C-AX7491,"₹10,244",₹5.24 Lakh,0,"Chhatarpur, Delhi"
+2023,Tata,NEXON,XZ PLUS PETROL SUNROOF,Manual,"24,415 km",1st Owner,Petrol,DL3C-CY3168,"₹19,034",₹10 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2015,Maruti,Ciaz,VXI+,Manual,"56,400 km",1st Owner,Petrol,DL9C-AK6344,"₹9,674",₹4.95 Lakh,0,"Chhatarpur, Delhi"
+2022,Nissan,MAGNITE,XV DUAL TONE,Manual,"20,512 km",1st Owner,Petrol,DL14-CG2282,"₹13,157",₹6.73 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2013,Honda,Amaze,1.2L I-VTEC EX,Manual,"1,07,855 km",2nd Owner,Petrol,HR20-AA5600,"₹7,189",₹2.73 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Maruti,Alto,VXI,Manual,"35,457 km",1st Owner,Petrol,DL9C-AV3036,"₹6,510",₹3.33 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Honda,Jazz,1.2L I-VTEC V,Manual,"54,689 km",1st Owner,Petrol,DL10-CN0973,"₹11,300",₹5.78 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2022,Renault,TRIBER,RXL MT,Manual,"21,089 km",1st Owner,Petrol,DL10-CR9290,"₹12,336",₹6.31 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Maruti,Ciaz,ALPHA 1.4 PETROL,Manual,"43,537 km",1st Owner,Petrol,HR26-DH9792,"₹13,235",₹6.77 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2016,Hyundai,Creta,SX PLUS AT 1.6 PETROL,Automatic,"1,01,240 km",1st Owner,Petrol,DL12-CJ7890,"₹16,216",₹7.29 Lakh,0,"Chhatarpur, Delhi"
+2020,Maruti,S,PRESSO LXI,Manual,"26,213 km",2nd Owner,Petrol,DL5C-R4877,"₹6,354",₹3.25 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Maruti,S,PRESSO VXI+,Manual,"15,966 km",1st Owner,Petrol,DL9C-AV0158,"₹7,957",₹4.07 Lakh,0,"Chhatarpur, Delhi"
+2019,MG,HECTOR,SMART 1.5 DCT PETROL,Automatic,"8,487 km",1st Owner,Petrol,DL14-CE7122,"₹26,724",₹14.04 Lakh,0,"Chhatarpur, Delhi"
+2017,Maruti,Baleno,SIGMA PETROL 1.2,Manual,"44,732 km",1st Owner,Petrol,DL9C-AN3631,"₹8,563",₹4.38 Lakh,0,"Chhatarpur, Delhi"
+2017,Maruti,Ciaz,ALPHA 1.4 PETROL,Manual,"93,015 km",1st Owner,Petrol,DL9C-AN2605,"₹11,280",₹5.77 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2016,Hyundai,Grand,i10 MAGNA 1.2 KAPPA VTVT,Manual,"82,442 km",1st Owner,CNG,UP25-BS6521,"₹8,319",₹3.74 Lakh,0,"Chhatarpur, Delhi"
+2020,Honda,Amaze,1.2L I-VTEC S,Manual,"52,036 km",1st Owner,Petrol,HR26-EG1525,"₹11,320",₹5.79 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2013,Maruti,Swift,Dzire VXI,Manual,"82,412 km",2nd Owner,Petrol,DL7C-N7796,"₹7,610",₹2.89 Lakh,0,"Chhatarpur, Delhi"
+2014,Maruti,Alto,K10 VXI,Manual,"80,912 km",1st Owner,Petrol,HR26-CL9395,"₹4,783",₹2.15 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Tata,Tiago,XZA PLUS DUAL TONE PETROL,Automatic,"33,731 km",2nd Owner,Petrol,DL10-CN7498,"₹9,990",₹5.11 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Honda,City,1.5L I-VTEC ZX CVT,Automatic,"39,103 km",2nd Owner,Petrol,HR26-DG8813,"₹15,608",₹8.2 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Maruti,IGNIS,SIGMA 1.2,Manual,"25,742 km",1st Owner,Petrol,HR26-ES9650,"₹9,501",₹4.86 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Honda,WR-V,1.2L I-VTEC VX MT,Manual,"17,242 km",1st Owner,Petrol,DL11-CB6563,"₹14,193",₹7.26 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Hyundai,Creta,SX (O) 1.6 DIESEL,Manual,"72,474 km",1st Owner,Diesel,HR26-DZ4449,"₹24,221",₹11.14 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2016,Honda,Jazz,1.2L I-VTEC V,Manual,"79,166 km",1st Owner,Petrol,HR51-BM5099,"₹7,542",₹3.86 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2016,Hyundai,Creta,SX PLUS 1.6 PETROL,Manual,"78,062 km",1st Owner,Petrol,DL7C-M3293,"₹14,624",₹7.48 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Maruti,Baleno,DELTA CVT PETROL 1.2,Automatic,"50,509 km",1st Owner,Petrol,DL8C-AR2940,"₹9,677",₹4.95 Lakh,0,"Chhatarpur, Delhi"
+2022,KIA,SONET,HTK 1.5,Manual,"23,502 km",1st Owner,Diesel,DL3C-CV6106,"₹18,178",₹9.55 Lakh,0,"Chhatarpur, Delhi"
+2019,Tata,TIGOR,XZA PETROL,Automatic,"70,408 km",1st Owner,Petrol,DL3C-CR1776,"₹9,306",₹4.76 Lakh,0,"Chhatarpur, Delhi"
+2020,Maruti,New,Wagon-R LXI 1.0,Manual,"24,266 km",1st Owner,Petrol,DL1C-AC4578,"₹9,365",₹4.79 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Ford,Ecosport,TITANIUM + 1.5L PETROL AT,Automatic,"48,227 km",1st Owner,Petrol,HR51-BS8907,"₹12,434",₹6.36 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2014,Maruti,Wagon,R 1.0 LXI,Manual,"64,539 km",2nd Owner,Petrol,DL2C-AU4547,"₹5,618",₹2.53 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Volkswagen,Polo,COMFORTLINE 1.0L MPI,Manual,"96,717 km",2nd Owner,Petrol,DL3C-CP4595,"₹10,674",₹5.46 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Tata,Harrier,XZA PLUS 2.0L KAZIRANGA,Automatic,"21,995 km",1st Owner,Diesel,DL9C-AW6675,"₹31,292",₹16.44 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Tata,ALTROZ,XM PLUS PETROL,Manual,"40,167 km",1st Owner,Petrol,HR81-B5606,"₹11,554",₹5.91 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Datsun,Go,ANNIVERSARY EDITION,Manual,"50,724 km",1st Owner,Petrol,DL8C-AR0238,"₹5,865",₹3 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Honda,Amaze,1.5L I-DTEC E,Manual,"43,683 km",1st Owner,Diesel,HR10-AH2648,"₹12,857",₹5.78 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2014,Honda,City,1.5L I-VTEC VX CVT,Automatic,"94,423 km",1st Owner,Petrol,DL4C-NC9888,"₹10,611",₹4.77 Lakh,0,"Chhatarpur, Delhi"
+2020,Maruti,Baleno,DELTA PETROL 1.2,Manual,"60,770 km",1st Owner,Petrol,HR52-G1929,"₹11,750",₹6.01 Lakh,0,"Chhatarpur, Delhi"
+2019,Tata,NEXON,XZ PLUS PETROL,Manual,"34,357 km",1st Owner,Petrol,DL12-CS2152,"₹14,936",₹7.64 Lakh,0,"Chhatarpur, Delhi"
+2014,Hyundai,i20,SPORTZ 1.2,Manual,"78,713 km",1st Owner,Petrol,HR26-CF8884,"₹7,719",₹3.47 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Tata,NEXON,XZA PLUS PETROL,Automatic,"17,824 km",2nd Owner,Petrol,DL5C-T5523,"₹17,873",₹9.39 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2015,Toyota,Corolla,Altis VL CVT PETROL,Automatic,"1,00,681 km",1st Owner,Petrol,DL10-CE8613,"₹17,729",₹7.97 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2016,Honda,City,1.5L I-VTEC VX,Manual,"56,424 km",2nd Owner,Petrol,HR26-CV9810,"₹12,278",₹6.28 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Tata,NEXON,XZA PLUS PETROL DUAL TONE,Automatic,"85,837 km",1st Owner,Petrol,DL1C-AA4204,"₹13,001",₹6.65 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Maruti,Baleno,ZETA PETROL 1.2,Manual,"25,476 km",1st Owner,Petrol,DL10-CN7534,"₹12,278",₹6.28 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Tata,NEXON,XZ PLUS PETROL,Manual,"62,246 km",1st Owner,Petrol,HR26-EJ7054,"₹15,265",₹8.02 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Hyundai,XCENT,PRIME T+ CNG,Manual,"30,541 km",1st Owner,CNG,DL5C-T1982,"₹12,473",₹6.38 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2022,Maruti,New,Wagon-R VXI 1.0 AMT,Automatic,"22,666 km",1st Owner,Petrol,DL14-CG0334,"₹11,574",₹5.92 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2012,Honda,City,1.5L I-VTEC V AT,Automatic,"89,613 km",2nd Owner,Petrol,HR26-BT3404,"₹10,662",₹3.21 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2014,Maruti,Wagon,R 1.0 LXI,Manual,"53,117 km",1st Owner,Petrol,DL3C-CA2937,"₹6,117",₹2.75 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Maruti,Swift,ZXI,Manual,"63,367 km",1st Owner,Petrol,DL3C-CL8134,"₹9,619",₹4.92 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Maruti,Baleno,DELTA PETROL 1.2,Manual,"59,534 km",1st Owner,CNG,DL8C-AZ5221,"₹12,258",₹6.27 Lakh,0,"Chhatarpur, Delhi"
+2019,Hyundai,NEW,SANTRO SPORTZ AMT,Automatic,"65,109 km",2nd Owner,Petrol,DL5C-R0843,"₹8,465",₹4.33 Lakh,0,"Chhatarpur, Delhi"
+2018,Ford,Ecosport,TREND + 1.5L PETROL AT,Automatic,"75,985 km",1st Owner,Petrol,DL10-CL5921,"₹12,923",₹6.61 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Maruti,Baleno,ZETA PETROL 1.2,Manual,"31,845 km",1st Owner,Petrol,HR36-AJ3243,"₹12,903",₹6.6 Lakh,0,"Chhatarpur, Delhi"
+2018,Maruti,Wagon,R 1.0 LXI CNG,Manual,"80,107 km",3rd Owner,CNG,DL2C-AY5644,"₹7,703",₹3.94 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2011,Hyundai,i20,SPORTZ 1.2,Manual,"73,031 km",2nd Owner,Petrol,DL3C-BR4759,"₹8,897",₹1.89 Lakh,0,"Chhatarpur, Delhi"
+2022,Tata,NEXON,XM PETROL,Manual,"30,785 km",2nd Owner,Petrol,DL9C-AX3715,"₹14,233",₹7.28 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Maruti,Baleno,DELTA PETROL 1.2,Manual,"41,436 km",1st Owner,Petrol,HR87-G7800,"₹11,906",₹6.09 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2014,Hyundai,i20,SPORTZ 1.2,Manual,"85,084 km",1st Owner,Petrol,DL10-CS3865,"₹7,763",₹3.49 Lakh,0,"Chhatarpur, Delhi"
+2015,Honda,Brio,VX AT,Automatic,"44,303 km",1st Owner,Petrol,HR03-T3504,"₹7,683",₹3.93 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Hyundai,Creta,SX PLUS AT 1.6 PETROL,Automatic,"74,436 km",1st Owner,Petrol,DL4C-AX4266,"₹16,046",₹8.43 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Tata,TIGOR,XE PETROL,Manual,"24,927 km",1st Owner,Petrol,HR30-X2678,"₹10,283",₹5.26 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2014,Honda,City,1.5L I-VTEC E MT,Manual,"47,069 km",1st Owner,Petrol,DL4C-AW5054,"₹10,188",₹4.58 Lakh,0,"Chhatarpur, Delhi"
+2014,Maruti,Wagon,R 1.0 LXI,Manual,"32,631 km",1st Owner,Petrol,DL2C-AU0811,"₹6,406",₹2.88 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Honda,Amaze,1.2L I-VTEC S,Manual,"37,264 km",2nd Owner,Petrol,DL10-CN5261,"₹11,222",₹5.74 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Jeep,Compass,SPORT PLUS 1.4 PETROL,Manual,"59,431 km",1st Owner,Petrol,HR26-EA1619,"₹22,555",₹11.85 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2010,Hyundai,i10,SPORTZ 1.2,Manual,"74,924 km",2nd Owner,Petrol,HR51-AJ6930,"₹11,550",₹1.3 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,KIA,SELTOS,GTX PLUS DCT 1.4 PETROL,Automatic,"49,161 km",1st Owner,Petrol,DL4C-AZ2501,"₹26,971",₹14.17 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Hyundai,VENUE,SX 1.0 TURBO,Manual,"29,239 km",2nd Owner,Petrol,DL5C-S6197,"₹16,312",₹8.57 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2016,Honda,City,1.5L I-VTEC VX,Manual,"77,095 km",1st Owner,Petrol,HR26-DB5519,"₹12,336",₹6.31 Lakh,0,"Chhatarpur, Delhi"
+2019,Maruti,Vitara,Brezza ZDI,Manual,"1,02,604 km",1st Owner,Diesel,HR52-F6415,"₹15,260",₹6.86 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Maruti,Baleno,DELTA CVT PETROL 1.2,Automatic,"70,189 km",1st Owner,Petrol,DL6C-R5785,"₹10,714",₹5.48 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Datsun,Go,Plus T(O),Manual,"30,616 km",1st Owner,Petrol,DL3C-CR3405,"₹8,915",₹4.56 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2011,Toyota,Etios,VX,Manual,"71,433 km",1st Owner,Petrol,DL4C-NE7832,"₹11,439",₹2.43 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2011,Hyundai,i10,MAGNA 1.2,Manual,"75,338 km",2nd Owner,Petrol,HR12-S2226,"₹8,567",₹1.82 Lakh,0,"Chhatarpur, Delhi"
+2013,Maruti,Swift,VXI,Manual,"46,822 km",2nd Owner,Petrol,DL5C-K5262,"₹7,716",₹2.93 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Tata,NEXON,XZ PETROL,Manual,"8,119 km",1st Owner,Petrol,DL3C-CU0981,"₹16,331",₹8.58 Lakh,0,"Chhatarpur, Delhi"
+2022,Tata,Tiago,XT CNG,Manual,"12,693 km",1st Owner,CNG,DL5C-T7494,"₹12,981",₹6.64 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Tata,NEXON,XZ PLUS PETROL,Manual,"40,890 km",2nd Owner,Petrol,DL9C-AP0478,"₹12,317",₹6.3 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Maruti,Baleno,ZETA PETROL 1.2,Manual,"56,966 km",1st Owner,Petrol,DL3C-CS8463,"₹13,069",₹6.68 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Ford,Ecosport,TREND 1.5L PETROL,Manual,"43,277 km",1st Owner,Petrol,DL12-CM2138,"₹11,574",₹5.92 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Tata,TIAGO,NRG PETROL,Manual,"35,764 km",1st Owner,Petrol,DL6C-R6957,"₹8,407",₹4.3 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2013,Hyundai,i20,MAGNA 1.2,Manual,"69,108 km",1st Owner,Petrol,DL4C-AQ7975,"₹7,031",₹2.67 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2014,Maruti,Wagon,R 1.0 VXI,Manual,"72,090 km",1st Owner,Petrol,HR26-CH5810,"₹6,050",₹2.72 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Maruti,Baleno,ZETA CVT PETROL 1.2,Automatic,"15,895 km",1st Owner,Petrol,DL10-CM7391,"₹14,017",₹7.17 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Maruti,Swift,LXI (O),Manual,"42,401 km",1st Owner,Petrol,DL3C-CL9872,"₹8,758",₹4.48 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Maruti,Baleno,ALPHA CVT PETROL 1.2,Automatic,"15,673 km",1st Owner,Petrol,HR98-1187,"₹15,288",₹7.82 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2012,Maruti,Swift,Dzire VXI,Manual,"54,292 km",1st Owner,Petrol,DL3C-BS5822,"₹10,197",₹3.07 Lakh,0,"Chhatarpur, Delhi"
+2012,Toyota,Etios,Liva G SP,Manual,"77,476 km",1st Owner,Petrol,DL3C-BD5735,"₹9,234",₹2.78 Lakh,0,"Chhatarpur, Delhi"
+2019,Mahindra,XUV500,W5,Manual,"56,122 km",1st Owner,Diesel,DL12-CR3458,"₹21,764",₹10.01 Lakh,0,"Chhatarpur, Delhi"
+2015,Maruti,Ciaz,VXI+,Manual,"1,09,535 km",1st Owner,Petrol,DL14-CB2149,"₹10,277",₹4.62 Lakh,0,"Chhatarpur, Delhi"
+2019,Renault,Kwid,RXT 1.0,Manual,"50,023 km",1st Owner,Petrol,DL12-CR3152,"₹6,667",₹3.41 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Maruti,Baleno,ZETA CVT PETROL 1.2,Automatic,"36,035 km",1st Owner,Petrol,DL7C-M7098,"₹11,046",₹5.65 Lakh,0,"Chhatarpur, Delhi"
+2020,Renault,TRIBER,RXZ AMT,Automatic,"13,341 km",1st Owner,Petrol,HR26-EJ4959,"₹13,392",₹6.85 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2014,Toyota,Etios,G,Manual,"76,413 km",2nd Owner,Petrol,HR26-CL9425,"₹7,719",₹3.47 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Maruti,Ciaz,DELTA 1.5 SHVS MT PETROL,Manual,"95,723 km",1st Owner,Petrol,DL12-CQ3275,"₹12,571",₹6.43 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Datsun,Redi,Go A,Manual,"84,695 km",1st Owner,Petrol,UP14-DU2838,"₹4,340",₹2.22 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2015,Maruti,Baleno,ALPHA DIESEL 1.3,Manual,"70,867 km",2nd Owner,Diesel,DL2C-AQ5399,"₹40,870",₹4.6 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Renault,Kwid,RXT 1.0 AMT (O),Automatic,"52,957 km",1st Owner,Petrol,DL3C-CT3254,"₹7,927",₹4.05 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Mahindra,XUV300,W8 (O) 1.2 PETROL,Manual,"47,914 km",1st Owner,Petrol,DL12-CQ8942,"₹16,921",₹8.89 Lakh,0,"Chhatarpur, Delhi"
+2012,Maruti,Swift,ZXI,Manual,"55,346 km",1st Owner,Petrol,HR26-BQ7413,"₹10,695",₹3.22 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2013,Toyota,Etios,Liva G,Manual,"41,856 km",1st Owner,Petrol,DL8C-AB2318,"₹8,242",₹3.13 Lakh,0,"Chhatarpur, Delhi"
+2011,Hyundai,i20,SPORTZ 1.2,Manual,"71,485 km",1st Owner,Petrol,DL3C-BQ2851,"₹9,791",₹2.08 Lakh,0,"Chhatarpur, Delhi"
+2017,Maruti,Ciaz,ZETA 1.4 AT PETROL,Automatic,"91,528 km",1st Owner,Petrol,DL8C-AR7921,"₹12,258",₹6.27 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2015,Maruti,Baleno,ALPHA PETROL 1.2,Manual,"33,752 km",1st Owner,Petrol,DL12-CG8476,"₹10,107",₹5.17 Lakh,0,"Chhatarpur, Delhi"
+2011,Maruti,Swift,VXI,Manual,"47,552 km",1st Owner,Petrol,DL3C-BU0610,"₹11,062",₹2.35 Lakh,0,"Chhatarpur, Delhi"
+2017,Honda,Jazz,1.2L I-VTEC V AT,Automatic,"95,825 km",2nd Owner,Petrol,DL10-CJ4024,"₹9,990",₹5.11 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Maruti,Baleno,ZETA PETROL 1.2,Manual,"1,15,870 km",1st Owner,Petrol,DL9C-AM9442,"₹10,622",₹4.78 Lakh,0,"Chhatarpur, Delhi"
+2022,Renault,Kwid,CLIMBER 1.0 (O),Manual,"15,517 km",1st Owner,Petrol,DL10-CR3322,"₹8,974",₹4.59 Lakh,0,"Chhatarpur, Delhi"
+2017,Maruti,Ciaz,ZETA 1.4 AT PETROL,Automatic,"62,898 km",2nd Owner,Petrol,DL9C-AN6616,"₹12,708",₹6.5 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Hyundai,Creta,SX PLUS AT 1.6 PETROL,Automatic,"86,490 km",1st Owner,Petrol,DL2C-AY7019,"₹17,340",₹9.11 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2011,Honda,Jazz,1.2L I-VTEC BASE,Manual,"74,253 km",1st Owner,Petrol,HR26-BL7630,"₹10,403",₹2.21 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,Automatic,"72,340 km",1st Owner,Petrol,HR26-EB7598,"₹17,036",₹8.95 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2022,Maruti,S,PRESSO VXI+,Manual,"21,688 km",2nd Owner,Petrol,HR26-ET9069,"₹8,895",₹4.55 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Maruti,Baleno,ZETA PETROL 1.2,Manual,"66,418 km",1st Owner,Petrol,DL7C-M7674,"₹10,010",₹5.12 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Hyundai,NEW,SANTRO SPORTZ CNG,Manual,"89,405 km",1st Owner,CNG,HR10-AG3184,"₹9,189",₹4.7 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Maruti,Baleno,ZETA PETROL 1.2,Manual,"59,231 km",2nd Owner,Petrol,HR26-EJ8829,"₹12,453",₹6.37 Lakh,0,"Chhatarpur, Delhi"
+2021,Mahindra,XUV300,W8(O) 1.2 PETROL DUAL TONE,Manual,"12,532 km",1st Owner,Petrol,DL12-CU2302,"₹21,166",₹11.12 Lakh,0,"Chhatarpur, Delhi"
+2018,Hyundai,Xcent,S 1.2,Manual,"87,732 km",1st Owner,CNG,DL12-CN9522,"₹9,912",₹5.07 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2023,Maruti,BREZZA,VXI SMART HYBRID,Manual,"19,281 km",1st Owner,Petrol,HR51-CK7914,"₹17,816",₹9.36 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Maruti,Vitara,Brezza VXI AT SHVS,Automatic,"30,949 km",1st Owner,Petrol,DL3C-CS4403,"₹15,235",₹8 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Honda,Amaze,1.2L I-VTEC S CVT,Automatic,"43,503 km",1st Owner,Petrol,DL9C-AX8080,"₹12,942",₹6.62 Lakh,0,"Chhatarpur, Delhi"
+2019,Renault,Duster,RXE PETROL,Manual,"39,254 km",1st Owner,Petrol,DL10-CN0309,"₹12,766",₹6.53 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Maruti,Swift,LXI,Manual,"57,073 km",1st Owner,Petrol,DL5C-Q9128,"₹8,993",₹4.6 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2022,Tata,Safari,XZA PLUS DARK EDITION,Automatic,"31,676 km",1st Owner,Diesel,HR26-EV3060,"₹36,869",₹19.37 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Maruti,Wagon,R 1.0 LXI CNG,Manual,"56,257 km",1st Owner,CNG,HR26-DS8532,"₹7,468",₹3.82 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2022,Maruti,IGNIS,DELTA 1.2,Manual,"18,015 km",1st Owner,Petrol,HR10-AP7400,"₹10,538",₹5.39 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2015,Hyundai,Grand,i10 ASTA 1.2 KAPPA VTVT,Manual,"40,819 km",2nd Owner,Petrol,HR26-CN6520,"₹6,608",₹3.38 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,"27,603 km",3rd Owner,Diesel,DL10-CN2358,"₹14,904",₹6.7 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Maruti,Baleno,DELTA PETROL 1.2,Manual,"27,841 km",1st Owner,Petrol,DL5C-R4991,"₹11,613",₹5.94 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Maruti,Vitara,Brezza ZDI AMT,Automatic,"28,098 km",1st Owner,Diesel,DL2C-BA7913,"₹16,528",₹7.43 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Hyundai,New,Elantra 2.0 SX(O) AT PETROL,Automatic,"1,13,960 km",1st Owner,Petrol,DL12-CL9996,"₹19,416",₹8.93 Lakh,0,"Chhatarpur, Delhi"
+2015,Hyundai,Grand,i10 MAGNA 1.2 KAPPA VTVT,Manual,"62,536 km",1st Owner,Petrol,HR26-CS4322,"₹6,471",₹3.31 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Maruti,Baleno,ALPHA PETROL 1.2,Manual,"91,549 km",1st Owner,Petrol,DL8C-AR3981,"₹9,814",₹5.02 Lakh,0,"Chhatarpur, Delhi"
+2017,Hyundai,Grand,i10 MAGNA 1.2 KAPPA VTVT,Manual,"96,739 km",1st Owner,Petrol,DL4C-AX5109,"₹7,644",₹3.91 Lakh,0,"Chhatarpur, Delhi"
+2022,Maruti,Alto,VXI,Manual,"34,574 km",1st Owner,Petrol,HR26-EU9228,"₹7,351",₹3.76 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2015,Honda,Jazz,1.2L I-VTEC SV,Manual,"57,702 km",1st Owner,Petrol,DL1C-T8913,"₹7,722",₹3.95 Lakh,0,"Chhatarpur, Delhi"
+2017,Maruti,Wagon,R 1.0 LXI CNG,Manual,"1,10,029 km",1st Owner,CNG,HR36-AC3442,"₹7,385",₹3.32 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Honda,Amaze,1.2L I-VTEC S,Manual,"23,160 km",1st Owner,Petrol,DL14-CE4063,"₹11,887",₹6.08 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Ford,Ecosport,TITANIUM + 1.5L PETROL AT,Automatic,"80,913 km",1st Owner,Petrol,HR26-DS7169,"₹14,799",₹7.57 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Maruti,Alto,LXI,Manual,"16,001 km",1st Owner,Petrol,HR72-F8445,"₹7,214",₹3.69 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2014,Honda,City,1.5L I-VTEC V MT,Manual,"81,451 km",1st Owner,Petrol,HR72-B6877,"₹10,588",₹4.76 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Maruti,Baleno,ZETA CVT PETROL 1.2,Automatic,"69,002 km",1st Owner,Petrol,HR26-DG7118,"₹10,440",₹5.34 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2022,Tata,ALTROZ,XZA PLUS,Automatic,"24,908 km",1st Owner,Petrol,DL5C-U3428,"₹16,503",₹8.67 Lakh,0,"Chhatarpur, Delhi"
+2017,Hyundai,Elite,i20 MAGNA 1.2,Manual,"62,492 km",1st Owner,Petrol,DL12-CL9910,"₹10,166",₹5.2 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2016,Maruti,Baleno,DELTA PETROL 1.2,Manual,"84,123 km",1st Owner,Petrol,HR51-BJ3789,"₹8,856",₹4.53 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Hyundai,Creta,S 1.5 PETROL,Manual,"14,693 km",1st Owner,Petrol,HR29-AV2864,"₹21,623",₹11.36 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2015,Hyundai,Elite,i20 ASTA 1.2,Manual,"93,800 km",1st Owner,Petrol,DL12-CG6608,"₹8,661",₹4.43 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Hyundai,Xcent,S 1.2,Manual,"41,326 km",1st Owner,Petrol,DL1C-AB6034,"₹10,429",₹5.33 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Ford,FREESTYLE,TITANIUM 1.2 PETROL,Manual,"87,411 km",2nd Owner,Petrol,DL2C-AY9235,"₹9,306",₹4.76 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2015,Honda,Brio,S MT,Manual,"52,975 km",2nd Owner,Petrol,DL3C-CC9273,"₹6,002",₹3.07 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Tata,ALTROZ,XE PETROL,Manual,"47,970 km",1st Owner,Petrol,HR06-AW5527,"₹10,303",₹5.27 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Maruti,S,PRESSO LXI,Manual,"30,651 km",1st Owner,Petrol,DL8C-BA7580,"₹7,390",₹3.78 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,KIA,SELTOS,HTX 1.5 PETROL,Manual,"50,450 km",1st Owner,Petrol,HR26-EK0644,"₹20,267",₹10.65 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Hyundai,Creta,SX AT 1.6 PETROL,Automatic,"69,534 km",1st Owner,Petrol,HR26-EE2319,"₹20,918",₹10.99 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,MG,HECTOR,SUPER 1.5 PETROL,Manual,"67,143 km",1st Owner,Petrol,DL3C-CS4668,"₹20,366",₹10.7 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2016,Maruti,Ciaz,ZXI,Manual,"57,286 km",1st Owner,Petrol,HR26-CY1712,"₹10,225",₹5.23 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Ford,Ecosport,TITANIUM 1.0L ECOBOOST SPORTS(SUNROOF),Manual,"70,551 km",2nd Owner,Petrol,HR26-DZ1233,"₹15,093",₹7.72 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Mahindra,Thar,LX PETROL HT 4WD AT,Automatic,"31,332 km",1st Owner,Petrol,DL1C-AH5181,"₹27,028",₹14.2 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2023,Maruti,IGNIS,SIGMA 1.2,Manual,"10,469 km",1st Owner,Petrol,DL7C-V6591,"₹10,225",₹5.23 Lakh,0,"Chhatarpur, Delhi"
+2022,Mahindra,SCORPIO-N,Z8 L PETROL MT 7 STR,Manual,"2,094 km",1st Owner,Petrol,DL1C-AH7455,"₹37,840",₹19.88 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Honda,Jazz,1.2L I-VTEC V,Manual,"75,621 km",1st Owner,Petrol,DL1C-X0295,"₹9,912",₹5.07 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2022,KIA,SONET,HTX 1.0 IMT,Manual,"34,198 km",1st Owner,Petrol,DL8C-BD4080,"₹19,167",₹10.07 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Maruti,Baleno,ZETA PETROL 1.2,Manual,"58,961 km",1st Owner,CNG,DL10-CM9985,"₹11,351",₹5.81 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Ford,Ecosport,TITANIUM 1.5L PETROL,Manual,"61,746 km",2nd Owner,CNG,DL8C-AX8903,"₹12,199",₹6.24 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2015,Hyundai,Elite,i20 MAGNA 1.2,Manual,"39,317 km",1st Owner,Petrol,DL11-CA5730,"₹8,577",₹4.39 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,KIA,SONET,HTK PLUS 1.0 IMT,Manual,"2,951 km",2nd Owner,Petrol,DL12-CT0256,"₹15,874",₹8.34 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Hyundai,GRAND,I10 NIOS SPORTZ 1.2 KAPPA VTVT,Manual,"19,784 km",1st Owner,Petrol,DL4C-AZ3128,"₹11,085",₹5.67 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Maruti,Swift,LXI,Manual,"24,003 km",2nd Owner,Petrol,DL3C-CU0783,"₹10,674",₹5.46 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2022,Toyota,URBAN,CRUISER MID GRADE MT,Manual,"28,970 km",1st Owner,Petrol,DL14-CG0255,"₹16,883",₹8.87 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Hyundai,Creta,SX (O) 1.4 TURBO DCT,Automatic,"57,541 km",1st Owner,Petrol,DL7C-R6702,"₹27,961",₹14.69 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Ford,Ecosport,TITANIUM 1.5L SIGNATURE EDITION (SUNROOF) PETROL,Manual,"77,405 km",2nd Owner,Petrol,DL12-CN9684,"₹13,157",₹6.73 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2017,Hyundai,Eon,ERA +,Manual,"60,656 km",2nd Owner,Petrol,DL8C-AS4591,"₹4,790",₹2.45 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2023,Maruti,Alto,K10 VXI,Manual,"21,607 km",1st Owner,Petrol,DL7C-V1856,"₹9,619",₹4.92 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Maruti,Eeco,5 STR WITH A/C+HTR,Manual,"43,731 km",1st Owner,Petrol,DL14-CE5879,"₹8,211",₹4.2 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,"49,417 km",1st Owner,Diesel,DL12-CR9609,"₹15,304",₹6.88 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2011,Toyota,Etios,V,Manual,"83,914 km",1st Owner,Petrol,DL7C-G6772,"₹11,203",₹2.38 Lakh,0,"Chhatarpur, Delhi"
+2021,Maruti,New,Wagon-R LXI CNG 1.0,Manual,"44,215 km",1st Owner,CNG,HR13-S1552,"₹11,339",₹5.8 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Maruti,Ertiga,ZXI+ SHVS,Manual,"17,163 km",1st Owner,Petrol,DL3C-CU7933,"₹19,643",₹10.32 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2022,Mahindra,Thar,LX P 4WD AT CONVERTIBLE,Automatic,"29,045 km",1st Owner,Petrol,DL12-CU6367,"₹27,428",₹14.41 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Maruti,Alto,VXI,Manual,"9,171 km",2nd Owner,Petrol,DL5C-S7708,"₹7,429",₹3.8 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Hyundai,Creta,SX 1.5 PETROL,Manual,"61,464 km",1st Owner,Petrol,DL9C-AT1736,"₹23,222",₹12.2 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Mahindra,KUV,100 NXT K2+ P 6 STR,Manual,"19,376 km",1st Owner,Petrol,DL8C-BA4543,"₹10,029",₹5.13 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2015,Hyundai,Grand,i10 SPORTZ 1.2 KAPPA VTVT,Manual,"19,643 km",1st Owner,Petrol,DL10-CG2779,"₹7,801",₹3.99 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,KIA,SELTOS,HTK PLUS 1.5,Manual,"30,964 km",1st Owner,Petrol,DL5C-S7464,"₹18,691",₹9.82 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2022,Nissan,MAGNITE,XV PREMIUM,Manual,"11,851 km",1st Owner,Petrol,DL3C-CW3546,"₹14,350",₹7.34 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2022,Hyundai,GRAND,I10 NIOS SPORTZ U2 AMT 1.2 CRDI,Automatic,"38,529 km",1st Owner,Diesel,DL2C-BD2939,"₹15,171",₹7.76 Lakh,0,"Chhatarpur, Delhi"
+2017,Ford,Ecosport,AMBIENTE 1.5L PETROL,Manual,"55,162 km",2nd Owner,Petrol,DL12-CM2711,"₹9,032",₹4.62 Lakh,0,"Chhatarpur, Delhi"
+2012,Volkswagen,Polo,TRENDLINE 1.2L PETROL,Manual,"61,297 km",3rd Owner,Petrol,DL10-CC1298,"₹6,111",₹1.84 Lakh,0,"Chhatarpur, Delhi"
+2016,Hyundai,Creta,SX PLUS 1.6 PETROL,Manual,"91,001 km",2nd Owner,Petrol,DL9C-AU4289,"₹12,629",₹6.46 Lakh,0,"Chhatarpur, Delhi"
+2019,MG,HECTOR,SMART 1.5 DCT PETROL,Automatic,"14,172 km",1st Owner,Petrol,DL1C-AB8171,"₹25,106",₹13.19 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Hyundai,Creta,SX 1.6 PETROL,Manual,"30,720 km",1st Owner,Petrol,DL1C-AA4200,"₹18,710",₹9.83 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2011,Volkswagen,Polo,COMFORTLINE 1.2L PETROL,Manual,"76,491 km",1st Owner,Petrol,HR26-BL2661,"₹9,838",₹2.09 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2015,Maruti,Ciaz,ZXI,Manual,"48,211 km",1st Owner,Petrol,HR26-CR9152,"₹10,092",₹5.16 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2022,Maruti,Celerio,VXI CNG,Manual,"39,884 km",1st Owner,CNG,HR26-EZ4063,"₹10,889",₹5.57 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Renault,TRIBER,RXZ,Manual,"48,169 km",2nd Owner,Petrol,DL7C-R6849,"₹10,968",₹5.61 Lakh,0,"Chhatarpur, Delhi"
+2011,Hyundai,i20,SPORTZ 1.2,Manual,"82,650 km",1st Owner,Petrol,HR26-BL5671,"₹10,121",₹2.15 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2020,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,"62,541 km",1st Owner,Diesel,DL11-CC3305,"₹15,722",₹8.26 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2022,Tata,Tiago,XM CNG,Manual,"8,031 km",1st Owner,CNG,DL3C-CV3769,"₹12,082",₹6.18 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Maruti,Ciaz,DELTA DIESEL 1.5,Manual,"61,329 km",1st Owner,Diesel,HR05-X0025,"₹15,616",₹7.02 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Hyundai,Elite,i20 SPORTZ PLUS 1.2,Manual,"60,403 km",1st Owner,Petrol,HR26-DW4258,"₹11,105",₹5.68 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Maruti,Swift,LXI,Manual,"35,815 km",1st Owner,Petrol,HR26-DZ3268,"₹9,853",₹5.04 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2021,Nissan,MAGNITE,XL,Manual,"15,141 km",1st Owner,Petrol,DL8C-BC0368,"₹11,496",₹5.88 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Ford,FREESTYLE,TITANIUM 1.2 PETROL,Manual,"35,429 km",1st Owner,Petrol,DL9C-AR5123,"₹9,560",₹4.89 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2022,Tata,NEXON,XZ PETROL,Manual,"16,781 km",1st Owner,Petrol,DL9C-AY6986,"₹16,902",₹8.88 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2019,Maruti,Eeco,5 STR WITH A/C+HTR CNG,Manual,"62,412 km",2nd Owner,CNG,DL3C-CR4964,"₹9,149",₹4.68 Lakh,0,"Metro Walk, Rohini, New Delhi"
+2018,Tata,TIGOR,XZ PETROL,Manual,"94,586 km",2nd Owner,Petrol,MH46-BE9158,"₹8,133",₹4.16 Lakh,0,"Goregaon, Mumbai"
+2018,Maruti,Dzire,VXI AMT,Automatic,"51,852 km",1st Owner,Petrol,MH03-CS4796,"₹10,987",₹5.62 Lakh,0,"Goregaon, Mumbai"
+2014,Hyundai,Xcent,S 1.2,Manual,"55,106 km",1st Owner,Petrol,MH02-DN9791,"₹8,631",₹3.88 Lakh,0,"Mulund West, Mumbai 
+"
+2016,Hyundai,Elite,i20 ASTA 1.2 (O),Manual,"27,261 km",1st Owner,Petrol,MH01-CH6499,"₹10,616",₹5.43 Lakh,0,"Goregaon, Mumbai"
+2019,Volkswagen,Ameo,COMFORTLINE 1.0L,Manual,"34,651 km",2nd Owner,Petrol,MH05-EA3696,"₹11,183",₹5.72 Lakh,0,"Seawood
+"
+2014,Maruti,Swift,Dzire ZDI,Manual,"11,144 km",1st Owner,Diesel,MH05-CM9865,"₹16,143",₹6.13 Lakh,0,"Goregaon, Mumbai"
+2018,Hyundai,Elite,i20 ASTA 1.2 (O),Manual,"56,236 km",1st Owner,Petrol,MH04-JB8572,"₹11,789",₹6.03 Lakh,0,"Seawood
+"
+2012,Honda,Brio,V MT,Manual,"61,764 km",1st Owner,Petrol,MH46-W7094,"₹8,005",₹2.41 Lakh,0,"Goregaon, Mumbai"
+2012,Maruti,Wagon,R 1.0 VXI,Manual,"42,425 km",2nd Owner,Petrol,MH46-W2546,"₹7,673",₹2.31 Lakh,0,"Goregaon, Mumbai"
+2018,Honda,WR-V,1.2L I-VTEC VX MT,Manual,"59,897 km",1st Owner,Petrol,MH43-BN0720,"₹13,900",₹7.11 Lakh,0,"Goregaon, Mumbai"
+2016,Hyundai,Creta,SX PLUS AT 1.6 PETROL,Automatic,"83,626 km",1st Owner,Petrol,MH02-EE8694,"₹16,255",₹8.54 Lakh,0,"Goregaon, Mumbai"
+2015,Hyundai,Grand,i10 ASTA AT 1.2 KAPPA VTVT,Automatic,"62,163 km",1st Owner,Petrol,MH02-DZ4772,"₹8,133",₹4.16 Lakh,0,"Mulund West, Mumbai 
+"
+2022,Maruti,Ertiga,ZXI (O) CNG,Manual,"20,619 km",1st Owner,CNG,MH05-FB7373,"₹22,689",₹11.92 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Hyundai,Grand,i10 MAGNA 1.2 KAPPA VTVT,Manual,"32,749 km",1st Owner,CNG,MH05-DH9209,"₹10,088",₹5.16 Lakh,0,"Goregaon, Mumbai"
+2016,Maruti,Celerio,ZXI AMT,Automatic,"76,727 km",1st Owner,Petrol,MH47-Q4472,"₹7,758",₹3.97 Lakh,0,"Goregaon, Mumbai"
+2017,Maruti,Baleno,ZETA PETROL 1.2,Manual,"40,995 km",1st Owner,Petrol,MH02-EK7448,"₹11,093",₹5.67 Lakh,0,"Goregaon, Mumbai"
+2016,Maruti,Baleno,DELTA PETROL 1.2,Manual,"59,679 km",1st Owner,Petrol,MH01-CH3686,"₹9,560",₹4.89 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Honda,City,1.5L I-VTEC VX CVT,Automatic,"54,705 km",1st Owner,Petrol,MH01-DE9747,"₹18,235",₹9.58 Lakh,0,"Goregaon, Mumbai"
+2016,Hyundai,Grand,i10 SPORTZ 1.2 KAPPA VTVT,Manual,"59,893 km",2nd Owner,Petrol,MH05-CV5645,"₹7,273",₹3.72 Lakh,0,"Seawood
+"
+2016,Maruti,Baleno,DELTA PETROL 1.2,Manual,"43,273 km",1st Owner,Petrol,MH01-CH1712,"₹9,873",₹5.05 Lakh,0,"Seawood
+"
+2017,Maruti,Celerio,VXI CNG,Manual,"85,712 km",1st Owner,CNG,MH03-CS3671,"₹7,879",₹4.03 Lakh,0,"Goregaon, Mumbai"
+2017,Maruti,Wagon,R 1.0 LXI CNG,Manual,"56,359 km",2nd Owner,CNG,MH02-EP2914,"₹7,644",₹3.91 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Toyota,YARIS,VX MT,Manual,"30,509 km",2nd Owner,Petrol,MH03-DA3753,"₹15,308",₹7.83 Lakh,0,"Goregaon, Mumbai"
+2015,Volkswagen,Polo,GT TSI AT,Automatic,"70,096 km",2nd Owner,Petrol,MH03-BW9246,"₹10,362",₹5.3 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Honda,BR-V,1.5L I-VTEC V CVT,Automatic,"75,870 km",2nd Owner,Petrol,MH03-CM6599,"₹12,962",₹6.63 Lakh,0,"Goregaon, Mumbai"
+2017,Hyundai,Elite,i20 SPORTZ 1.2,Manual,"44,558 km",1st Owner,Petrol,MH04-HX1726,"₹11,026",₹5.64 Lakh,0,"Goregaon, Mumbai"
+2017,Tata,Tiago,XZ PETROL,Manual,"37,602 km",2nd Owner,Petrol,MH01-CP7125,"₹8,055",₹4.12 Lakh,0,"Mulund West, Mumbai 
+"
+2022,Nissan,MAGNITE,XL TURBO CVT,Automatic,"15,037 km",1st Owner,Petrol,MH01-DX3849,"₹15,227",₹8 Lakh,0,"Goregaon, Mumbai"
+2021,Toyota,URBAN,CRUISER PREMIUM GRADE MT,Manual,"18,001 km",1st Owner,Petrol,MH01-DX1791,"₹18,025",₹9.47 Lakh,0,"Goregaon, Mumbai"
+2021,KIA,SELTOS,GTX PLUS DCT 1.4 PETROL,Automatic,"33,374 km",2nd Owner,Petrol,MH02-FN4277,"₹28,075",₹14.75 Lakh,0,"Goregaon, Mumbai"
+2022,MG,HECTOR,SHARP 2.0 DIESEL,Manual,"29,274 km",1st Owner,Diesel,MH02-FU5907,"₹33,728",₹17.72 Lakh,0,"Goregaon, Mumbai"
+2021,Maruti,Ciaz,DELTA 1.5 SHVS MT PETROL,Manual,"30,926 km",1st Owner,Petrol,MH43-BU9605,"₹15,601",₹7.98 Lakh,0,"Goregaon, Mumbai"
+2021,Hyundai,VENUE,SX 1.0 TURBO IMT,Manual,"9,340 km",1st Owner,Petrol,MH04-KW1839,"₹18,368",₹9.65 Lakh,0,"Mulund West, Mumbai 
+"
+2021,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,Automatic,"48,355 km",1st Owner,Petrol,MH02-FR3254,"₹18,178",₹9.55 Lakh,0,"Mulund West, Mumbai 
+"
+2016,Maruti,Vitara,Brezza ZDI PLUS DUAL TONE,Manual,"99,679 km",1st Owner,Diesel,MH08-AG3527,"₹13,460",₹6.88 Lakh,0,"Goregaon, Mumbai"
+2013,Maruti,Wagon,R 1.0 LXI,Manual,"21,606 km",1st Owner,Petrol,MH04-FZ7553,"₹7,795",₹2.96 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Tata,Tiago,XZA PETROL,Automatic,"32,045 km",1st Owner,Petrol,MH05-EA4437,"₹10,264",₹5.25 Lakh,0,"Goregaon, Mumbai"
+2020,Maruti,Baleno,DELTA PETROL 1.2,Manual,"33,723 km",1st Owner,Petrol,MH05-EJ0531,"₹11,398",₹5.83 Lakh,0,"Goregaon, Mumbai"
+2015,Maruti,Ertiga,ZXI,Manual,"48,033 km",1st Owner,Petrol,MH02-DW2954,"₹13,099",₹6.7 Lakh,0,"Mulund West, Mumbai 
+"
+2022,Renault,Kwid,CLIMBER 1.0 AMT (O),Automatic,"2,908 km",1st Owner,Petrol,MH47-BF5429,"₹10,616",₹5.43 Lakh,0,"Goregaon, Mumbai"
+2016,Hyundai,Elite,i20 MAGNA 1.2,Manual,"38,566 km",1st Owner,Petrol,MH04-HM5237,"₹9,540",₹4.88 Lakh,0,"Mulund West, Mumbai 
+"
+2014,Maruti,Wagon,R 1.0 LXI CNG,Manual,"99,498 km",2nd Owner,CNG,MH04-GM1980,"₹9,998",₹3.01 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Hyundai,GRAND,I10 NIOS SPORTZ 1.2 KAPPA VTVT DUAL TONE,Manual,"30,977 km",1st Owner,Petrol,MH47-AN7145,"₹11,222",₹5.74 Lakh,0,"Goregaon, Mumbai"
+2013,Skoda,Rapid,ACTIVE 1.6 MPI MT PLUS,Manual,"47,977 km",2nd Owner,Petrol,MH01-BK2418,"₹10,007",₹3.8 Lakh,0,"Mulund West, Mumbai 
+"
+2014,Maruti,Swift,VXI,Manual,"29,876 km",1st Owner,Petrol,MH04-GM3085,"₹8,809",₹3.96 Lakh,0,"Goregaon, Mumbai"
+2021,Tata,ALTROZ,XZ PLUS PETROL,Manual,"13,348 km",1st Owner,Petrol,MH05-EQ3816,"₹14,741",₹7.54 Lakh,0,"Mulund West, Mumbai 
+"
+2021,Tata,NEXON,XZ PETROL,Manual,"13,342 km",1st Owner,Petrol,MH03-DU9590,"₹16,407",₹8.62 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Honda,City,1.5L I-VTEC ZX,Manual,"17,087 km",1st Owner,Petrol,MH02-FE3303,"₹17,036",₹8.95 Lakh,0,"Goregaon, Mumbai"
+2014,Maruti,Swift,VXI,Manual,"53,120 km",1st Owner,Petrol,MH02-DN5631,"₹8,259",₹3.71 Lakh,0,"Goregaon, Mumbai"
+2013,Maruti,Wagon,R 1.0 LXI CNG,Manual,"80,601 km",1st Owner,CNG,MH03-BH6099,"₹13,745",₹2.92 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Hyundai,VENUE,SX 1.0 (O) TURBO,Manual,"45,750 km",2nd Owner,Petrol,MH02-FE8156,"₹15,210",₹7.78 Lakh,0,"Mulund West, Mumbai 
+"
+2014,Hyundai,Grand,i10 SPORTZ 1.2 KAPPA VTVT,Manual,"39,636 km",1st Owner,Petrol,MH43-AN8773,"₹8,030",₹3.61 Lakh,0,"Mulund West, Mumbai 
+"
+2016,Maruti,Ciaz,ZXI+ AT,Automatic,"90,742 km",1st Owner,Petrol,MH47-Q1267,"₹11,085",₹5.67 Lakh,0,"Goregaon, Mumbai"
+2021,Hyundai,VENUE,S 1.0 TURBO IMT,Manual,"49,880 km",1st Owner,Petrol,MH03-DU1772,"₹15,893",₹8.35 Lakh,0,"Mulund West, Mumbai 
+"
+2016,Volkswagen,Polo,HIGHLINE1.5L,Manual,"72,744 km",3rd Owner,Diesel,MH03-CM0113,"₹10,264",₹5.25 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Hyundai,VENUE,SX 1.0 TURBO,Manual,"34,899 km",1st Owner,Petrol,MH47-AN2426,"₹16,560",₹8.7 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Ford,Ecosport,TITANIUM+ 1.5L DIESEL,Manual,"79,659 km",1st Owner,Diesel,MH04-JB6067,"₹12,747",₹6.52 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Renault,Duster,RXS OPT CVT,Automatic,"26,958 km",1st Owner,Petrol,MH05-EA3439,"₹15,093",₹7.72 Lakh,0,"Mulund West, Mumbai 
+"
+2014,Honda,City,1.5L I-VTEC SV CVT,Automatic,"45,962 km",2nd Owner,Petrol,MH02-DS0659,"₹11,389",₹5.12 Lakh,0,"Goregaon, Mumbai"
+2013,Maruti,Wagon,R 1.0 VXI,Manual,"44,412 km",1st Owner,Petrol,MH02-CZ7317,"₹7,294",₹2.77 Lakh,0,"Mulund West, Mumbai 
+"
+2020,Honda,Amaze,1.2L I-VTEC V,Manual,"30,688 km",1st Owner,Petrol,MH31-FR0414,"₹12,297",₹6.29 Lakh,0,"Mulund West, Mumbai 
+"
+2015,Honda,City,1.5L I-VTEC S MT,Manual,"79,079 km",2nd Owner,Petrol,MH02-DW2210,"₹8,465",₹4.33 Lakh,0,"Goregaon, Mumbai"
+2018,Hyundai,NEW,SANTRO MAGNA CNG,Manual,"59,736 km",1st Owner,CNG,MH04-JV4592,"₹8,524",₹4.36 Lakh,0,"Goregaon, Mumbai"
+2014,Hyundai,Elite,i20 SPORTZ 1.2,Manual,"60,702 km",1st Owner,Petrol,MH02-DS7361,"₹9,320",₹4.19 Lakh,0,"Goregaon, Mumbai"
+2020,Maruti,New,Wagon-R VXI 1.2,Manual,"20,785 km",1st Owner,Petrol,MH43-BU3199,"₹10,088",₹5.16 Lakh,0,"Goregaon, Mumbai"
+2019,Maruti,Celerio,VXI CNG,Manual,"35,436 km",1st Owner,CNG,MH05-EA8065,"₹10,733",₹5.49 Lakh,0,"Seawood
+"
+2017,Hyundai,Elite,i20 SPORTZ 1.2,Manual,"98,272 km",1st Owner,Petrol,MH46-BA4011,"₹10,029",₹5.13 Lakh,0,"Goregaon, Mumbai"
+2017,Maruti,Wagon,R 1.0 VXI,Manual,"22,280 km",1st Owner,Petrol,MH11-CG5572,"₹7,507",₹3.84 Lakh,0,"Mulund West, Mumbai 
+"
+2016,Hyundai,Elite,i20 ASTA 1.2,Manual,"46,613 km",1st Owner,Petrol,MH02-EE7109,"₹9,853",₹5.04 Lakh,0,"Mulund West, Mumbai 
+"
+2022,Tata,NEXON,XZA PLUS DIESEL KAZIRANGA,Automatic,"37,152 km",1st Owner,Diesel,MH43-CC0384,"₹23,602",₹12.4 Lakh,0,"Goregaon, Mumbai"
+2015,Toyota,Innova,2.5 VX 7 STR,Manual,"1,21,038 km",1st Owner,Diesel,MH05-CM5346,"₹19,633",₹9.03 Lakh,0,"Goregaon, Mumbai"
+2014,Hyundai,Xcent,BASE 1.2,Manual,"54,098 km",2nd Owner,Petrol,MH43-AR1984,"₹8,075",₹3.63 Lakh,0,"Mulund West, Mumbai 
+"
+2016,Hyundai,Grand,i10 ASTA AT 1.2 KAPPA VTVT,Automatic,"70,453 km",1st Owner,Petrol,MH47-Q4087,"₹8,328",₹4.26 Lakh,0,"Goregaon, Mumbai"
+2022,Mahindra,XUV300,W6 1.5 DIESEL,Manual,"16,454 km",1st Owner,Diesel,MH03-DX4080,"₹19,510",₹10.25 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Maruti,New,Wagon-R VXI (O) 1.2,Manual,"25,824 km",1st Owner,Petrol,MH04-JV5937,"₹10,127",₹5.18 Lakh,0,"Goregaon, Mumbai"
+2015,Maruti,Swift,Dzire VXI,Manual,"84,530 km",1st Owner,Petrol,MH43-AT0194,"₹7,214",₹3.69 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Hyundai,Creta,E PLUS 1.6 PETROL,Manual,"89,501 km",1st Owner,Petrol,MH01-CT1385,"₹13,196",₹6.75 Lakh,0,"Goregaon, Mumbai"
+2016,Hyundai,Elite,i20 SPORTZ 1.2,Manual,"46,186 km",1st Owner,Petrol,MH02-EE8047,"₹10,205",₹5.22 Lakh,0,"Goregaon, Mumbai"
+2018,Hyundai,Grand,i10 SPORTZ AT 1.2 KAPPA VTVT,Automatic,"86,975 km",1st Owner,Petrol,MH48-BH8518,"₹10,283",₹5.26 Lakh,0,"Goregaon, Mumbai"
+2017,Honda,City,1.5L I-VTEC V MT,Manual,"38,411 km",1st Owner,Petrol,MH47-Q7458,"₹13,138",₹6.72 Lakh,0,"Seawood
+"
+2017,Maruti,Baleno,ZETA PETROL 1.2,Manual,"49,544 km",2nd Owner,Petrol,MH05-DE0980,"₹8,876",₹4.54 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Maruti,New,Wagon-R VXI 1.2,Manual,"11,829 km",2nd Owner,Petrol,MH08-AN6859,"₹9,795",₹5.01 Lakh,0,"Goregaon, Mumbai"
+2015,Honda,City,1.5L I-DTEC SV,Manual,"91,885 km",2nd Owner,Diesel,MH01-BY2513,"₹10,633",₹4.78 Lakh,0,"Goregaon, Mumbai"
+2017,Maruti,Celerio,ZXI AMT,Automatic,"42,234 km",1st Owner,Petrol,MH47-W0734,"₹7,976",₹4.08 Lakh,0,"Goregaon, Mumbai"
+2016,Maruti,Wagon,R 1.0 VXI,Manual,"51,265 km",1st Owner,Petrol,MH04-HF6602,"₹6,803",₹3.48 Lakh,0,"Goregaon, Mumbai"
+2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,"35,708 km",1st Owner,Petrol,MH04-JB2139,"₹10,371",₹5.3 Lakh,0,"Seawood
+"
+2014,Volkswagen,Polo,HIGHLINE1.2L,Manual,"41,264 km",1st Owner,Petrol,MH02-DJ3758,"₹8,164",₹3.67 Lakh,0,"Mulund West, Mumbai 
+"
+2022,Nissan,MAGNITE,XV MT,Manual,"33,145 km",1st Owner,Petrol,MH47-BF3365,"₹12,864",₹6.58 Lakh,0,"Goregaon, Mumbai"
+2019,Maruti,Baleno,DELTA CVT PETROL 1.2,Automatic,"16,547 km",2nd Owner,Petrol,MH04-KD1089,"₹11,730",₹6 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Tata,Harrier,XZ 2.0L,Manual,"52,045 km",2nd Owner,Diesel,MH04-KD4626,"₹24,135",₹12.68 Lakh,0,"Goregaon, Mumbai"
+2020,Maruti,IGNIS,ALPHA 1.2,Manual,"20,435 km",1st Owner,Petrol,MH43-BU3290,"₹10,831",₹5.54 Lakh,0,"Goregaon, Mumbai"
+2021,Hyundai,VENUE,SX 1.0 TURBO,Manual,"34,705 km",1st Owner,Petrol,MH12-TH8967,"₹15,970",₹8.39 Lakh,0,"Mulund West, Mumbai 
+"
+2015,Honda,City,1.5L I-VTEC VX,Manual,"61,228 km",1st Owner,Petrol,MH02-DW9509,"₹10,088",₹5.16 Lakh,0,"Seawood
+"
+2011,Maruti,Swift,ZXI,Manual,"67,725 km",2nd Owner,Petrol,MH01-BB2081,"₹13,981",₹2.97 Lakh,0,"Mulund West, Mumbai 
+"
+2015,Maruti,Swift,VXI,Manual,"76,928 km",2nd Owner,Petrol,MH01-BY3310,"₹7,605",₹3.89 Lakh,0,"Goregaon, Mumbai"
+2015,Honda,Jazz,1.2L I-VTEC V AT,Automatic,"34,003 km",1st Owner,Petrol,MH02-DZ8685,"₹9,189",₹4.7 Lakh,0,"Goregaon, Mumbai"
+2016,Volkswagen,Ameo,HIGHLINE1.2L,Manual,"11,546 km",1st Owner,Petrol,MH06-BU1049,"₹9,462",₹4.84 Lakh,0,"Seawood
+"
+2017,Jeep,Compass,LIMITED (O) 2.0 DIESEL,Manual,"99,924 km",1st Owner,Diesel,MH04-HX8985,"₹18,000",₹9.46 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Hyundai,Elite,i20 ASTA 1.4 CRDI (O),Manual,"75,355 km",2nd Owner,Diesel,MH03-DA5405,"₹12,903",₹6.6 Lakh,0,"Seawood
+"
+2021,Renault,Kiger,RXL MT,Manual,"46,060 km",1st Owner,Petrol,MH43-BY1701,"₹10,518",₹5.38 Lakh,0,"Goregaon, Mumbai"
+2017,Skoda,Rapid,STYLE 1.6 MPI AT,Automatic,"84,858 km",3rd Owner,Petrol,MH03-CS1294,"₹10,127",₹5.18 Lakh,0,"Goregaon, Mumbai"
+2015,Maruti,Ciaz,ZXI,Manual,"85,628 km",1st Owner,Petrol,MH01-BY7820,"₹9,189",₹4.7 Lakh,0,"Goregaon, Mumbai"
+2015,Hyundai,Creta,S 1.6 PETROL,Manual,"76,643 km",2nd Owner,Petrol,MH04-GZ4354,"₹12,356",₹6.32 Lakh,0,"Goregaon, Mumbai"
+2017,Maruti,Vitara,Brezza VDI,Manual,"53,140 km",1st Owner,Diesel,MH02-EK7795,"₹12,297",₹6.29 Lakh,0,"Seawood
+"
+2019,Jeep,Compass,SPORT 1.4 PETROL,Manual,"10,405 km",1st Owner,Petrol,MH01-DE9218,"₹20,766",₹10.91 Lakh,0,"Goregaon, Mumbai"
+2015,Hyundai,Elite,i20 SPORTZ 1.2 (O),Manual,"77,613 km",1st Owner,Petrol,MH02-DZ1097,"₹8,661",₹4.43 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Maruti,Wagon,R 1.0 VXI AMT,Automatic,"34,473 km",2nd Owner,Petrol,MH02-EZ1446,"₹7,155",₹3.66 Lakh,0,"Goregaon, Mumbai"
+2017,Hyundai,New,Elantra 2.0 SX(O) AT PETROL,Automatic,"76,064 km",2nd Owner,Petrol,MH47-W0852,"₹15,341",₹8.06 Lakh,0,"Mulund West, Mumbai 
+"
+2015,Ford,Ecosport,TITANIUM 1.5L PETROL AT,Automatic,"43,187 km",1st Owner,Petrol,MH01-BY9222,"₹10,010",₹5.12 Lakh,0,"Goregaon, Mumbai"
+2017,Maruti,Baleno,SIGMA PETROL 1.2,Manual,"76,316 km",2nd Owner,Petrol,MH47-W2674,"₹8,039",₹4.11 Lakh,0,"Mulund West, Mumbai 
+"
+2021,Tata,Tiago,XZA PLUS DUAL TONE PETROL,Automatic,"34,270 km",1st Owner,Petrol,MH46-BV5627,"₹11,515",₹5.89 Lakh,0,"Goregaon, Mumbai"
+2014,Hyundai,i20,SPORTZ 1.2,Manual,"35,207 km",2nd Owner,Petrol,MH02-DN0814,"₹8,141",₹3.66 Lakh,0,"Goregaon, Mumbai"
+2014,Honda,City,1.5L I-VTEC V MT,Manual,"61,542 km",1st Owner,Petrol,MH03-BS2655,"₹9,988",₹4.49 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Hyundai,Grand,i10 MAGNA U2 1.2 CRDI,Manual,"1,13,120 km",1st Owner,Diesel,MH46-BK6991,"₹9,632",₹4.33 Lakh,0,"Seawood
+"
+2015,Volkswagen,Polo,GT TSI AT,Automatic,"54,590 km",1st Owner,Petrol,MH02-DW9309,"₹10,459",₹5.35 Lakh,0,"Goregaon, Mumbai"
+2013,Skoda,Rapid,ACTIVE 1.6 MPI MT PLUS,Manual,"90,993 km",1st Owner,Petrol,MH02-DG8274,"₹9,006",₹3.42 Lakh,0,"Mulund West, Mumbai 
+"
+2014,Volkswagen,Polo,HIGHLINE1.2L,Manual,"46,222 km",3rd Owner,Petrol,MH02-DJ7490,"₹7,910",₹3.56 Lakh,0,"Mulund West, Mumbai 
+"
+2016,Maruti,Swift,Dzire VXI,Manual,"49,757 km",2nd Owner,Petrol,MH02-EE8843,"₹8,583",₹4.39 Lakh,0,"Mulund West, Mumbai 
+"
+2022,Mahindra,XUV300,W6 1.2 PETROL AMT,Automatic,"13,010 km",2nd Owner,Petrol,MH01-EB0332,"₹17,898",₹9.4 Lakh,0,"Goregaon, Mumbai"
+2023,Maruti,Dzire,ZXI Plus AMT,Automatic,"12,653 km",1st Owner,Petrol,MH02-FY1811,"₹15,760",₹8.28 Lakh,0,"Goregaon, Mumbai"
+2012,Volkswagen,Polo,HIGHLINE1.2L,Manual,"61,164 km",1st Owner,Petrol,MH02-CL3704,"₹10,064",₹3.03 Lakh,0,"Goregaon, Mumbai"
+2013,Maruti,Wagon,R Stingray VXI,Manual,"35,954 km",1st Owner,Petrol,MH04-GJ2263,"₹7,874",₹2.99 Lakh,0,"Goregaon, Mumbai"
+2017,Maruti,Ertiga,ZDI + SHVS,Manual,"94,570 km",1st Owner,Diesel,MH46-BA3491,"₹16,693",₹8.77 Lakh,0,"Mulund West, Mumbai 
+"
+2020,KIA,SELTOS,GTX PLUS DCT 1.4 PETROL,Automatic,"65,200 km",1st Owner,Petrol,MH01-DK7925,"₹25,696",₹13.5 Lakh,0,"Mulund West, Mumbai 
+"
+2022,Maruti,BREZZA,ZXI SMART HYBRID,Manual,"5,377 km",1st Owner,Petrol,MH03-EB1506,"₹22,060",₹11.59 Lakh,0,"Goregaon, Mumbai"
+2016,Maruti,Baleno,DELTA CVT PETROL 1.2,Automatic,"34,019 km",1st Owner,Petrol,MH01-CD8464,"₹10,283",₹5.26 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Honda,Jazz,1.2L I-VTEC V AT,Automatic,"45,773 km",1st Owner,Petrol,MH03-CS2106,"₹9,110",₹4.66 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Ford,Ecosport,TITANIUM 1.0L ECOBOOST SPORTS(SUNROOF),Manual,"30,825 km",2nd Owner,Petrol,MH43-BN4348,"₹14,975",₹7.66 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Hyundai,Creta,SX PLUS 1.6 PETROL DUAL TONE,Manual,"50,556 km",1st Owner,Petrol,MH05-DS7875,"₹15,893",₹8.35 Lakh,0,"Seawood
+"
+2016,Ford,Ecosport,TITANIUM 1.5L PETROL AT,Automatic,"41,949 km",1st Owner,Petrol,MH04-HM6818,"₹11,691",₹5.98 Lakh,0,"Mulund West, Mumbai 
+"
+2011,Toyota,Etios,Liva G,Manual,"79,645 km",1st Owner,Petrol,MH01-BB1859,"₹10,733",₹2.28 Lakh,0,"Mulund West, Mumbai 
+"
+2015,Maruti,Baleno,ZETA DIESEL 1.3,Manual,"56,687 km",1st Owner,Diesel,MH04-GZ9727,"₹13,124",₹5.9 Lakh,0,"Mulund West, Mumbai 
+"
+2016,Maruti,Alto,800 LXI,Manual,"45,935 km",2nd Owner,Petrol,MH01-CH3724,"₹4,907",₹2.51 Lakh,0,"Mulund West, Mumbai 
+"
+2012,Maruti,Swift,VXI,Manual,"15,045 km",1st Owner,Petrol,MH03-BE4271,"₹10,463",₹3.15 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Ford,Ecosport,TREND 1.5L DIESEL,Manual,"87,593 km",2nd Owner,Diesel,MH43-BK8218,"₹13,157",₹6.73 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Hyundai,GRAND,I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,Automatic,"47,261 km",1st Owner,Petrol,MH05-EA4824,"₹11,280",₹5.77 Lakh,0,"Goregaon, Mumbai"
+2011,Hyundai,i20,SPORTZ 1.2,Manual,"1,22,248 km",1st Owner,Petrol,MH03-AZ5373,"₹10,568",₹2.25 Lakh,0,"Mulund West, Mumbai 
+"
+2014,Maruti,Celerio,VXI AMT,Automatic,"76,296 km",1st Owner,Petrol,MH04-GJ7034,"₹6,940",₹3.12 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Hyundai,Elite,i20 SPORTZ 1.2,Manual,"41,718 km",2nd Owner,Petrol,MH01-CP4587,"₹9,169",₹4.69 Lakh,0,"Mulund West, Mumbai 
+"
+2022,Tata,TIGOR,XZ PLUS CNG,Manual,"5,837 km",1st Owner,CNG,MH05-FB2647,"₹15,503",₹7.93 Lakh,0,"Goregaon, Mumbai"
+2014,Maruti,Swift,VDI,Manual,"83,006 km",1st Owner,Diesel,MH43-AR3877,"₹11,455",₹4.35 Lakh,0,"Mulund West, Mumbai 
+"
+2016,Maruti,Swift,VXI O,Manual,"35,970 km",1st Owner,Petrol,MH46-AU5153,"₹8,465",₹4.33 Lakh,0,"Seawood
+"
+2016,Honda,City,1.5L I-VTEC SV,Manual,"83,615 km",1st Owner,Petrol,MH04-HM4965,"₹10,420",₹5.33 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Hyundai,New,Elantra 1.6 SX (O) AT DIESEL,Automatic,"48,054 km",2nd Owner,Diesel,MH02-EZ0018,"₹20,271",₹10.65 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Skoda,Rapid,STYLE 1.5 TDI AT,Automatic,"1,19,830 km",1st Owner,Diesel,MH47-AG9110,"₹14,837",₹6.67 Lakh,0,"Mulund West, Mumbai 
+"
+2023,Volkswagen,VIRTUS,GT PLUS TSI 1.5 EVO DSG,Automatic,"8,966 km",1st Owner,Petrol,MH01-EF2856,"₹32,967",₹17.32 Lakh,0,"Seawood
+"
+2014,Maruti,Swift,Dzire ZDI,Manual,"1,14,899 km",2nd Owner,Diesel,MH46-Z8904,"₹12,245",₹4.65 Lakh,0,"Mulund West, Mumbai 
+"
+2021,Hyundai,AURA,SX 1.2 (O),Manual,"16,365 km",1st Owner,Petrol,MH46-BZ5422,"₹13,392",₹6.85 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Maruti,Wagon,R 1.0 VXI AMT,Automatic,"65,289 km",1st Owner,Petrol,MH47-W0767,"₹7,155",₹3.66 Lakh,0,"Seawood
+"
+2016,Hyundai,Creta,BASE 1.6 PETROL,Manual,"53,911 km",1st Owner,Petrol,MH03-CB4217,"₹12,864",₹6.58 Lakh,0,"Goregaon, Mumbai"
+2020,Maruti,Baleno,ZETA PETROL 1.2,Manual,"14,523 km",2nd Owner,Petrol,MH04-KL4721,"₹11,828",₹6.05 Lakh,0,"Goregaon, Mumbai"
+2020,Tata,ALTROZ,XZ PETROL,Manual,"47,992 km",1st Owner,Petrol,MH43-BU3448,"₹12,786",₹6.54 Lakh,0,"Seawood
+"
+2016,Hyundai,Elite,i20 ASTA 1.2,Manual,"62,117 km",3rd Owner,Petrol,MH05-CV0336,"₹9,404",₹4.81 Lakh,0,"Goregaon, Mumbai"
+2020,Volkswagen,Vento,HIGHLINE PLUS 1.0L TSI AT,Automatic,"89,509 km",1st Owner,Petrol,MH10-DL5181,"₹16,369",₹8.6 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Maruti,New,Wagon-R LXI CNG 1.0,Manual,"66,684 km",2nd Owner,CNG,MH43-BU0271,"₹9,404",₹4.81 Lakh,0,"Goregaon, Mumbai"
+2017,Maruti,Baleno,ZETA CVT PETROL 1.2,Automatic,"77,650 km",1st Owner,Petrol,MH03-CS3405,"₹10,186",₹5.21 Lakh,0,"Goregaon, Mumbai"
+2020,Maruti,S,PRESSO VXI CNG,Manual,"66,992 km",1st Owner,CNG,MH04-KL4761,"₹7,801",₹3.99 Lakh,0,"Mulund West, Mumbai 
+"
+2022,Renault,Kwid,RXL 1.0 (O),Manual,"4,744 km",1st Owner,Petrol,MH47-BF4264,"₹8,407",₹4.3 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Hyundai,Creta,SX (O) 1.6 DIESEL,Manual,"66,962 km",1st Owner,Diesel,MH02-EU9313,"₹19,377",₹10.18 Lakh,0,"Mulund West, Mumbai 
+"
+2016,Volkswagen,Ameo,HIGHLINE1.2L,Manual,"10,117 km",2nd Owner,Petrol,MH01-CP4081,"₹8,661",₹4.43 Lakh,0,"Mulund West, Mumbai 
+"
+2011,Hyundai,i10,MAGNA 1.1,Manual,"79,326 km",2nd Owner,Petrol,MH04-ET2698,"₹9,132",₹1.94 Lakh,0,"Goregaon, Mumbai"
+2018,Honda,WR-V,1.2L I-VTEC VX MT,Manual,"45,344 km",1st Owner,Petrol,MH47-AG7888,"₹11,867",₹6.07 Lakh,0,"Seawood
+"
+2018,Maruti,Celerio,VXI CNG,Manual,"74,536 km",1st Owner,CNG,MH04-JM6120,"₹7,722",₹3.95 Lakh,0,"Seawood
+"
+2011,Toyota,Etios,Liva G,Manual,"77,595 km",1st Owner,Petrol,MH43-AJ4942,"₹11,156",₹2.37 Lakh,0,"Seawood
+"
+2021,Maruti,Celerio,ZXI (O),Manual,"23,012 km",1st Owner,Petrol,MH06-CD9192,"₹9,814",₹5.02 Lakh,0,"Seawood
+"
+2022,Maruti,BREZZA,ZXI SMART HYBRID DUAL TONE,Manual,"11,537 km",1st Owner,Petrol,MH04-LH1304,"₹21,356",₹11.22 Lakh,0,"Mulund West, Mumbai 
+"
+2016,Maruti,Baleno,ZETA PETROL 1.2,Manual,"46,564 km",1st Owner,Petrol,MH48-AK7889,"₹9,560",₹4.89 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Hyundai,New,Elantra 2.0 SX(O) AT PETROL,Automatic,"43,333 km",2nd Owner,Petrol,MH47-AG7524,"₹20,652",₹10.85 Lakh,0,"Mulund West, Mumbai 
+"
+2014,Hyundai,i10,SPORTZ 1.1,Manual,"21,258 km",1st Owner,Petrol,MH05-CH3253,"₹7,185",₹3.23 Lakh,0,"Mulund West, Mumbai 
+"
+2021,Maruti,New,Wagon-R LXI CNG 1.0,Manual,"23,233 km",1st Owner,CNG,MH03-DU6610,"₹11,359",₹5.81 Lakh,0,"Mulund West, Mumbai 
+"
+2011,Hyundai,i10,SPORTZ 1.2,Manual,"30,375 km",3rd Owner,Petrol,MH03-AZ4909,"₹9,838",₹2.09 Lakh,0,"Goregaon, Mumbai"
+2018,Tata,NEXON,XZA PLUS DIESEL DUAL TONE,Automatic,"1,04,792 km",1st Owner,Diesel,MH48-AW9583,"₹14,859",₹6.68 Lakh,0,"Mulund West, Mumbai 
+"
+2022,Tata,TIGOR,XZ PLUS CNG,Manual,"18,438 km",2nd Owner,CNG,MH46-CE8913,"₹14,330",₹7.33 Lakh,0,"Seawood
+"
+2016,Hyundai,Elite,i20 SPORTZ 1.2,Manual,"16,301 km",1st Owner,Petrol,MH02-EK4009,"₹10,276",₹5.26 Lakh,0,"Goregaon, Mumbai"
+2015,Honda,City,1.5L I-VTEC VX,Manual,"1,00,831 km",1st Owner,Petrol,MH01-BY7255,"₹10,143",₹4.56 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Maruti,Baleno,ZETA CVT PETROL 1.2,Automatic,"24,684 km",1st Owner,Petrol,MH20-FG3038,"₹13,832",₹7.08 Lakh,0,"Goregaon, Mumbai"
+2015,Hyundai,Elite,i20 SPORTZ 1.2,Manual,"30,141 km",2nd Owner,Petrol,MH02-EE0437,"₹8,342",₹4.27 Lakh,0,"Mulund West, Mumbai 
+"
+2021,Tata,Safari,XZ PLUS,Manual,"16,603 km",1st Owner,Diesel,MH47-AY2048,"₹35,754",₹18.78 Lakh,0,"Mulund West, Mumbai 
+"
+2015,Maruti,Wagon,R 1.0 VXI AMT,Automatic,"95,214 km",1st Owner,Petrol,MH43-AT7159,"₹5,943",₹3.04 Lakh,0,"Mulund West, Mumbai 
+"
+2021,Nissan,MAGNITE,XV PREMIUM,Manual,"47,127 km",1st Owner,Petrol,MH46-BV6745,"₹13,529",₹6.92 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Hyundai,Creta,SX PLUS AT 1.6 DIESEL,Automatic,"79,836 km",1st Owner,Diesel,MH02-EU2327,"₹18,501",₹9.72 Lakh,0,"Mulund West, Mumbai 
+"
+2012,Maruti,Swift,Dzire ZXI,Manual,"60,719 km",1st Owner,Petrol,MH01-BF4257,"₹11,326",₹3.41 Lakh,0,"Seawood
+"
+2014,Maruti,Celerio,VXI,Manual,"66,046 km",2nd Owner,Petrol,MH03-BJ8096,"₹6,785",₹3.05 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Maruti,Celerio,VXI CNG,Manual,"79,682 km",1st Owner,CNG,MH46-BA6336,"₹7,937",₹4.06 Lakh,0,"Seawood
+"
+2017,Honda,Jazz,1.2L I-VTEC SV,Manual,"25,602 km",2nd Owner,Petrol,MH03-CS5463,"₹8,680",₹4.44 Lakh,0,"Goregaon, Mumbai"
+2018,Hyundai,Creta,SX AT 1.6 DIESEL,Automatic,"1,07,774 km",1st Owner,Diesel,MH02-EZ5337,"₹22,308",₹10.26 Lakh,0,"Seawood
+"
+2020,Maruti,Ciaz,ALPHA AT 1.5 SHVS PETROL,Automatic,"28,132 km",1st Owner,Petrol,MH02-FJ2448,"₹15,494",₹8.14 Lakh,0,"Mulund West, Mumbai 
+"
+2014,Hyundai,Grand,i10 SPORTZ 1.2 KAPPA VTVT,Manual,"56,392 km",1st Owner,Petrol,MH02-DN2418,"₹7,274",₹3.27 Lakh,0,"Mulund West, Mumbai 
+"
+2013,Hyundai,i10,MAGNA 1.2,Manual,"69,725 km",2nd Owner,Petrol,MH12-JZ8402,"₹6,610",₹2.51 Lakh,0,"Goregaon, Mumbai"
+2019,Hyundai,Creta,SX 1.6 PETROL,Manual,"70,430 km",2nd Owner,Petrol,MH03-DG2416,"₹15,951",₹8.38 Lakh,0,"Goregaon, Mumbai"
+2015,Honda,City,1.5L I-VTEC VX,Manual,"75,533 km",1st Owner,Petrol,MH02-DZ4140,"₹10,733",₹5.49 Lakh,0,"Goregaon, Mumbai"
+2017,Maruti,Swift,VXI,Manual,"47,322 km",1st Owner,Petrol,MH05-DH0113,"₹9,501",₹4.86 Lakh,0,"Goregaon, Mumbai"
+2017,Hyundai,Grand,i10 SPORTZ 1.2 KAPPA VTVT,Manual,"21,635 km",1st Owner,Petrol,MH43-BK1841,"₹8,778",₹4.49 Lakh,0,"Goregaon, Mumbai"
+2014,Maruti,Swift,VXI,Manual,"69,389 km",1st Owner,Petrol,MH46-Z5440,"₹7,407",₹3.33 Lakh,0,"Goregaon, Mumbai"
+2017,Honda,City,1.5L I-VTEC ZX CVT,Automatic,"45,676 km",1st Owner,Petrol,MH01-CP2589,"₹14,141",₹7.23 Lakh,0,"Mulund West, Mumbai 
+"
+2021,Maruti,New,Wagon-R LXI CNG (O) 1.0,Manual,"13,106 km",1st Owner,CNG,MH04-KR8256,"₹11,652",₹5.96 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Maruti,Swift,VXI,Manual,"57,535 km",2nd Owner,Petrol,MH04-HX0624,"₹9,619",₹4.92 Lakh,0,"Goregaon, Mumbai"
+2015,Honda,City,1.5L I-VTEC SV,Manual,"61,177 km",2nd Owner,Petrol,MH02-DW1584,"₹9,189",₹4.7 Lakh,0,"Goregaon, Mumbai"
+2016,Maruti,Ertiga,VDI SHVS,Manual,"68,384 km",1st Owner,Diesel,MH48-AK6793,"₹13,842",₹7.08 Lakh,0,"Seawood
+"
+2021,Maruti,New,Wagon-R LXI CNG 1.0,Manual,"19,622 km",1st Owner,CNG,MH47-AY1942,"₹11,926",₹6.1 Lakh,0,"Seawood
+"
+2017,Maruti,Wagon,R 1.0 LXI CNG,Manual,"62,850 km",3rd Owner,CNG,MH05-DH1011,"₹6,803",₹3.48 Lakh,0,"Goregaon, Mumbai"
+2023,Renault,Kwid,CLIMBER AMT 1.0,Automatic,"12,014 km",1st Owner,Petrol,MH05-FB8565,"₹11,026",₹5.64 Lakh,0,"Goregaon, Mumbai"
+2018,Maruti,Ciaz,ZETA 1.5 SHVS MT PETROL,Manual,"18,001 km",1st Owner,Petrol,MH02-FE3860,"₹14,467",₹7.4 Lakh,0,"Mulund West, Mumbai 
+"
+2020,Tata,ALTROZ,XZ PETROL,Manual,"71,356 km",1st Owner,Petrol,MH05-EJ0823,"₹13,490",₹6.9 Lakh,0,"Mulund West, Mumbai 
+"
+2012,Maruti,Wagon,R 1.0 VXI,Manual,"43,569 km",2nd Owner,Petrol,MH02-CL4274,"₹8,281",₹2.49 Lakh,0,"Seawood
+"
+2020,Honda,City,1.5L I-VTEC ZX,Manual,"44,722 km",1st Owner,Petrol,MH46-BQ5934,"₹16,997",₹8.93 Lakh,0,"Goregaon, Mumbai"
+2017,Renault,Duster,RXS CVT,Automatic,"31,113 km",1st Owner,Petrol,MH02-EP7404,"₹12,023",₹6.15 Lakh,0,"Seawood
+"
+2016,Hyundai,Creta,S 1.6 PETROL,Manual,"45,568 km",1st Owner,Petrol,MH02-EE8135,"₹13,060",₹6.68 Lakh,0,"Goregaon, Mumbai"
+2016,Maruti,Celerio,ZXI,Manual,"33,655 km",1st Owner,Petrol,MH05-CV7402,"₹7,175",₹3.67 Lakh,0,"Goregaon, Mumbai"
+2017,Honda,WR-V,1.2L I-VTEC VX MT,Manual,"87,905 km",2nd Owner,Petrol,MH43-BK0924,"₹11,085",₹5.67 Lakh,0,"Goregaon, Mumbai"
+2012,Volkswagen,Vento,HIGHLINE 1.6 MPI,Manual,"93,393 km",1st Owner,Petrol,MH01-BG2582,"₹10,396",₹3.13 Lakh,0,"Mulund West, Mumbai 
+"
+2023,Maruti,BREZZA,ZXI SMART HYBRID,Manual,"10,234 km",1st Owner,Petrol,MH47-BK5276,"₹23,435",₹12.31 Lakh,0,"Goregaon, Mumbai"
+2014,Maruti,Wagon,R 1.0 LXI,Manual,"67,447 km",1st Owner,Petrol,MH03-BS8734,"₹6,495",₹2.92 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Honda,City,1.5L I-VTEC ZX CVT,Automatic,"33,613 km",1st Owner,Petrol,MH43-BK1659,"₹15,347",₹7.85 Lakh,0,"Mulund West, Mumbai 
+"
+2016,Hyundai,Elite,i20 SPORTZ 1.2,Manual,"52,544 km",3rd Owner,Petrol,MH04-HU1206,"₹8,367",₹4.28 Lakh,0,"Goregaon, Mumbai"
+2019,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,Automatic,"1,13,669 km",1st Owner,Petrol,MH01-DK7772,"₹17,611",₹8.1 Lakh,0,"Goregaon, Mumbai"
+2022,Hyundai,AURA,SX PLUS 1.2 AMT,Automatic,"20,883 km",1st Owner,Petrol,MH04-LB5922,"₹15,265",₹8.02 Lakh,0,"Goregaon, Mumbai"
+2017,Hyundai,Grand,i10 ASTA 1.2 KAPPA VTVT,Manual,"44,823 km",1st Owner,Petrol,MH03-CM9836,"₹8,856",₹4.53 Lakh,0,"Goregaon, Mumbai"
+2019,Maruti,Ciaz,DELTA 1.5 SHVS MT PETROL,Manual,"11,299 km",1st Owner,Petrol,MH02-FE1916,"₹13,568",₹6.94 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Skoda,Rapid,STYLE 1.6 MPI,Manual,"59,417 km",1st Owner,Petrol,MH01-DB7576,"₹13,626",₹6.97 Lakh,0,"Mulund West, Mumbai 
+"
+2014,Honda,Brio,VX AT,Automatic,"69,196 km",2nd Owner,Petrol,MH03-BS4158,"₹7,528",₹3.38 Lakh,0,"Goregaon, Mumbai"
+2020,Maruti,S,Cross ALPHA AT SMART HYBRID,Automatic,"29,624 km",1st Owner,Petrol,MH40-CA1570,"₹19,148",₹10.06 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Hyundai,Grand,i10 MAGNA 1.2 KAPPA VTVT,Manual,"45,213 km",1st Owner,Petrol,MH05-DS4309,"₹9,228",₹4.72 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Hyundai,Creta,E PLUS 1.6 PETROL,Manual,"23,252 km",2nd Owner,Petrol,MH46-BA4361,"₹14,584",₹7.46 Lakh,0,"Mulund West, Mumbai 
+"
+2021,Honda,City,1.5L I-VTEC ZX CVT,Automatic,"22,827 km",1st Owner,Petrol,MH02-FN5574,"₹24,554",₹12.9 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Jeep,Compass,LIMITED 2.0 DIESEL,Manual,"66,096 km",2nd Owner,Diesel,MH01-CP9952,"₹17,188",₹9.03 Lakh,0,"Goregaon, Mumbai"
+2018,Hyundai,Grand,i10 SPORTZ (O) AT 1.2 KAPPA VTVT,Automatic,"65,001 km",1st Owner,Petrol,MH46-BE5266,"₹10,342",₹5.29 Lakh,0,"Seawood
+"
+2017,Honda,City,1.5L I-VTE V CVT,Automatic,"68,950 km",1st Owner,Petrol,MH02-EK6760,"₹12,792",₹6.54 Lakh,0,"Mulund West, Mumbai 
+"
+2013,Nissan,Micra,XV CVT,Automatic,"36,761 km",1st Owner,Petrol,MH02-CZ8562,"₹8,875",₹3.37 Lakh,0,"Goregaon, Mumbai"
+2018,Maruti,Baleno,ZETA PETROL 1.2,Manual,"54,530 km",1st Owner,Petrol,MH43-BK5846,"₹9,918",₹5.07 Lakh,0,"Seawood
+"
+2023,Maruti,New,Wagon-R LXI 1.0,Manual,"1,958 km",1st Owner,Petrol,MH47-BK2665,"₹11,515",₹5.89 Lakh,0,"Goregaon, Mumbai"
+2019,Honda,WR-V,1.2L I-VTEC VX MT,Manual,"70,985 km",1st Owner,Petrol,MH47-AG9733,"₹12,786",₹6.54 Lakh,0,"Mulund West, Mumbai 
+"
+2021,Maruti,S,PRESSO VXI+,Manual,"12,655 km",1st Owner,Petrol,MH03-DU4502,"₹7,918",₹4.05 Lakh,0,"Goregaon, Mumbai"
+2017,Hyundai,Creta,SX PLUS AT 1.6 PETROL,Automatic,"90,305 km",1st Owner,Petrol,MH46-BA5115,"₹15,912",₹8.36 Lakh,0,"Goregaon, Mumbai"
+2018,Toyota,Corolla,Altis VL CVT PETROL,Automatic,"74,221 km",1st Owner,Petrol,MH46-BE4986,"₹18,235",₹9.58 Lakh,0,"Mulund West, Mumbai 
+"
+2020,Tata,ALTROZ,XZ PETROL,Manual,"11,670 km",1st Owner,Petrol,MH02-FJ8657,"₹13,548",₹6.93 Lakh,0,"Goregaon, Mumbai"
+2015,Hyundai,Xcent,S 1.2,Manual,"65,203 km",2nd Owner,Petrol,MH46-AL6102,"₹6,803",₹3.48 Lakh,0,"Goregaon, Mumbai"
+2017,Toyota,Corolla,Altis VL CVT PETROL,Automatic,"56,595 km",1st Owner,Petrol,MH02-EP5370,"₹19,262",₹10.12 Lakh,0,"Mulund West, Mumbai 
+"
+2020,Maruti,New,Wagon-R LXI CNG 1.0,Manual,"12,950 km",2nd Owner,CNG,MH43-BU4536,"₹10,283",₹5.26 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Tata,NEXON,XZA PLUS PETROL,Automatic,"61,806 km",1st Owner,Petrol,MH47-AN2319,"₹15,112",₹7.73 Lakh,0,"Mulund West, Mumbai 
+"
+2020,Maruti,New,Wagon-R ZXI 1.2 AMT,Automatic,"24,495 km",1st Owner,Petrol,MH02-FJ3914,"₹10,733",₹5.49 Lakh,0,"Seawood
+"
+2019,Toyota,Glanza,G CVT,Automatic,"16,870 km",2nd Owner,Petrol,MH47-AN8175,"₹13,275",₹6.79 Lakh,0,"Seawood
+"
+2018,Toyota,Corolla,Altis VL CVT PETROL,Automatic,"77,581 km",2nd Owner,Petrol,MH01-DB3533,"₹18,657",₹9.8 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Mahindra,XUV300,W8 1.5 DIESEL,Manual,"51,938 km",1st Owner,Diesel,MH02-FE2491,"₹16,484",₹8.66 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Volkswagen,Vento,HIGHLINE PLUS 1.5 AT 16 ALLOY,Automatic,"70,205 km",2nd Owner,Diesel,MH02-EZ6562,"₹15,265",₹8.02 Lakh,0,"Goregaon, Mumbai"
+2021,Maruti,New,Wagon-R LXI CNG (O) 1.0,Manual,"39,613 km",1st Owner,CNG,MH43-BY9261,"₹11,222",₹5.74 Lakh,0,"Seawood
+"
+2015,Maruti,Wagon,R 1.0 VXI,Manual,"30,942 km",2nd Owner,Petrol,MH48-AC5103,"₹6,002",₹3.07 Lakh,0,"Mulund West, Mumbai 
+"
+2013,Maruti,Wagon,R 1.0 LXI CNG,Manual,"75,349 km",2nd Owner,CNG,MH46-X1584,"₹13,237",₹2.81 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Honda,BR-V,1.5L I-VTEC VX,Manual,"1,06,523 km",1st Owner,Petrol,MH05-DS0107,"₹16,439",₹7.39 Lakh,0,"Goregaon, Mumbai"
+2021,Jeep,Compass,SPORT 1.4 PETROL DCT,Automatic,"21,250 km",2nd Owner,Petrol,MH47-AY6724,"₹28,342",₹14.89 Lakh,0,"Mulund West, Mumbai 
+"
+2015,Maruti,Wagon,R 1.0 VXI,Manual,"28,048 km",2nd Owner,Petrol,MH46-AP2863,"₹6,217",₹3.18 Lakh,0,"Goregaon, Mumbai"
+2013,Maruti,Wagon,R 1.0 VXI,Manual,"68,427 km",1st Owner,Petrol,MH05-BS7422,"₹7,057",₹2.68 Lakh,0,"Mulund West, Mumbai 
+"
+2020,Toyota,Glanza,V CVT,Automatic,"56,916 km",1st Owner,Petrol,MH47-AN8831,"₹13,349",₹6.83 Lakh,0,"Goregaon, Mumbai"
+2022,Tata,ALTROZ,XZA PLUS,Automatic,"2,973 km",1st Owner,Petrol,MH02-FR9330,"₹17,036",₹8.95 Lakh,0,"Goregaon, Mumbai"
+2019,Maruti,S,PRESSO VXI PLUS AMT,Automatic,"21,125 km",1st Owner,Petrol,MH01-DK4808,"₹9,065",₹4.64 Lakh,0,"Seawood
+"
+2021,Maruti,New,Wagon-R LXI CNG 1.0,Manual,"30,981 km",1st Owner,CNG,MH05-EJ9858,"₹11,398",₹5.83 Lakh,0,"Mulund West, Mumbai 
+"
+2022,Maruti,New,Wagon-R LXI 1.0,Manual,"31,378 km",1st Owner,Petrol,MH48-CC6624,"₹10,948",₹5.6 Lakh,0,"Mulund West, Mumbai 
+"
+2013,Maruti,Swift,Dzire ZDI,Manual,"1,20,050 km",1st Owner,Diesel,MH01-BG6796,"₹14,548",₹4.38 Lakh,0,"Mulund West, Mumbai 
+"
+2022,Maruti,S,PRESSO VXI+,Manual,"10,815 km",1st Owner,Petrol,MH03-EB0515,"₹9,501",₹4.86 Lakh,0,"Goregaon, Mumbai"
+2015,Hyundai,i10,MAGNA 1.1,Manual,"55,760 km",2nd Owner,Petrol,MH02-DW3371,"₹5,748",₹2.94 Lakh,0,"Seawood
+"
+2021,Maruti,New,Wagon-R VXI (O) 1.2,Manual,"19,528 km",2nd Owner,Petrol,MH03-DU6748,"₹10,088",₹5.16 Lakh,0,"Goregaon, Mumbai"
+2017,Maruti,Wagon,R 1.0 VXI AMT,Automatic,"78,285 km",1st Owner,Petrol,MH47-Q6548,"₹7,331",₹3.75 Lakh,0,"Goregaon, Mumbai"
+2022,Mahindra,XUV300,W6 1.5 DIESEL AMT,Automatic,"11,461 km",1st Owner,Diesel,MH05-FB3619,"₹21,242",₹11.16 Lakh,0,"Mulund West, Mumbai 
+"
+2014,Hyundai,Xcent,S 1.2,Manual,"95,827 km",2nd Owner,Petrol,MH04-GM2201,"₹7,852",₹3.53 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Maruti,New,Wagon-R VXI 1.2,Manual,"37,678 km",1st Owner,Petrol,MH47-AN3125,"₹9,140",₹4.67 Lakh,0,"Mulund West, Mumbai 
+"
+2021,Maruti,New,Wagon-R LXI CNG (O) 1.0,Manual,"36,188 km",1st Owner,CNG,MH47-AY1975,"₹11,632",₹5.95 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Toyota,Corolla,Altis VL CVT PETROL,Automatic,"61,520 km",1st Owner,Petrol,MH47-AB1659,"₹19,434",₹10.21 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Tata,NEXON,XZA PLUS DIESEL,Automatic,"51,506 km",2nd Owner,Diesel,MH04-KD4586,"₹15,912",₹8.36 Lakh,0,"Goregaon, Mumbai"
+2020,Renault,TRIBER,RXE MT,Manual,"24,117 km",1st Owner,Petrol,MH48-BT2820,"₹10,336",₹5.29 Lakh,0,"Goregaon, Mumbai"
+2017,Maruti,IGNIS,DELTA 1.2,Manual,"30,176 km",1st Owner,Petrol,MH47-W6310,"₹8,563",₹4.38 Lakh,0,"Seawood
+"
+2019,Jeep,Compass,LIMITED PLUS PETROL AT,Automatic,"36,921 km",1st Owner,Petrol,MH03-DG5007,"₹27,961",₹14.69 Lakh,0,"Goregaon, Mumbai"
+2018,Jeep,Compass,LONGITUDE 2.0 DIESEL,Manual,"44,734 km",2nd Owner,Diesel,MH02-EU2730,"₹19,396",₹10.19 Lakh,0,"Mulund West, Mumbai 
+"
+2020,Renault,Kwid,RXT 1.0 (O),Manual,"46,581 km",1st Owner,Petrol,MH47-AU3928,"₹8,250",₹4.22 Lakh,0,"Goregaon, Mumbai"
+2017,Hyundai,Creta,E PLUS 1.6 PETROL,Manual,"75,175 km",1st Owner,Petrol,MH04-HX5696,"₹14,428",₹7.38 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Hyundai,Grand,i10 MAGNA 1.2 KAPPA VTVT,Manual,"38,780 km",1st Owner,Petrol,MH47-AB8089,"₹9,202",₹4.71 Lakh,0,"Mulund West, Mumbai 
+"
+2022,Tata,NEXON,XZ PLUS PETROL,Manual,"18,598 km",1st Owner,Petrol,MH16-CY4574,"₹17,093",₹8.98 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Toyota,Glanza,V CVT,Automatic,"15,816 km",1st Owner,Petrol,MH47-AN4945,"₹15,503",₹7.93 Lakh,0,"Goregaon, Mumbai"
+2015,Hyundai,Elite,i20 SPORTZ 1.2,Manual,"52,696 km",1st Owner,Petrol,MH04-GZ0762,"₹8,446",₹4.32 Lakh,0,"Goregaon, Mumbai"
+2019,Maruti,IGNIS,ALPHA 1.2,Manual,"22,343 km",2nd Owner,Petrol,MH01-DE9245,"₹10,342",₹5.29 Lakh,0,"Goregaon, Mumbai"
+2015,Honda,Jazz,1.2L I-VTEC V AT,Automatic,"63,245 km",1st Owner,Petrol,MH04-GZ5404,"₹9,560",₹4.89 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Maruti,Baleno,ALPHA CVT PETROL 1.2,Automatic,"33,155 km",2nd Owner,Petrol,MH02-EZ6839,"₹12,073",₹6.18 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Hyundai,Creta,E PLUS 1.6 PETROL,Manual,"39,827 km",1st Owner,Petrol,MH02-EP0091,"₹14,643",₹7.49 Lakh,0,"Goregaon, Mumbai"
+2017,Hyundai,Grand,i10 SPORTZ (O) AT 1.2 KAPPA VTVT,Automatic,"40,049 km",2nd Owner,Petrol,MH04-JB2917,"₹9,345",₹4.78 Lakh,0,"Goregaon, Mumbai"
+2021,Tata,TIGOR,XZA PLUS PETROL,Automatic,"39,046 km",1st Owner,Petrol,MH04-KR4691,"₹13,763",₹7.04 Lakh,0,"Goregaon, Mumbai"
+2021,Maruti,New,Wagon-R LXI CNG (O) 1.0,Manual,"50,418 km",1st Owner,CNG,MH12-TD9581,"₹11,339",₹5.8 Lakh,0,"Goregaon, Mumbai"
+2020,Honda,WR-V,1.2L I-VTEC VX MT,Manual,"42,897 km",1st Owner,Petrol,MH31-FR1686,"₹14,760",₹7.55 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Honda,Jazz,1.2L I-VTEC VX AT,Automatic,"24,232 km",1st Owner,Petrol,MH03-DA0841,"₹12,346",₹6.32 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Maruti,Ciaz,DELTA AT 1.5 SHVS PETROL,Automatic,"54,408 km",2nd Owner,Petrol,MH47-AG8212,"₹13,372",₹6.84 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Hyundai,NEW,SANTRO SPORTZ CNG,Manual,"70,159 km",1st Owner,CNG,MH04-KD0281,"₹9,204",₹4.71 Lakh,0,"Seawood
+"
+2020,Honda,City,1.5L I-VTEC VX CVT,Automatic,"26,350 km",1st Owner,Petrol,MH43-BU2718,"₹19,415",₹10.2 Lakh,0,"Goregaon, Mumbai"
+2021,Maruti,S,PRESSO VXI PLUS AMT,Automatic,"27,012 km",1st Owner,Petrol,MH05-EQ6607,"₹8,348",₹4.27 Lakh,0,"Seawood
+"
+2017,Hyundai,Creta,E PLUS 1.6 PETROL,Manual,"77,926 km",1st Owner,Petrol,MH02-EP8050,"₹14,520",₹7.43 Lakh,0,"Goregaon, Mumbai"
+2022,Hyundai,GRAND,I10 NIOS SPORTZ 1.2 KAPPA VTVT CNG,Manual,"15,638 km",1st Owner,CNG,MH46-BZ8471,"₹13,861",₹7.09 Lakh,0,"Goregaon, Mumbai"
+2012,Hyundai,i10,SPORTZ 1.2,Manual,"1,18,765 km",1st Owner,Petrol,MH05-BL2011,"₹8,038",₹2.42 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Hyundai,Creta,E PLUS 1.6 PETROL,Manual,"1,01,128 km",2nd Owner,Petrol,MH01-CP8949,"₹14,948",₹6.72 Lakh,0,"Mulund West, Mumbai 
+"
+2016,Hyundai,Creta,SX PLUS AT 1.6 PETROL,Automatic,"73,228 km",1st Owner,Petrol,MH02-EK3669,"₹15,366",₹7.86 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Hyundai,Creta,SX PLUS AT 1.6 PETROL,Automatic,"91,055 km",2nd Owner,Petrol,MH01-CT0876,"₹16,179",₹8.5 Lakh,0,"Goregaon, Mumbai"
+2019,Toyota,Glanza,G CVT,Automatic,"21,695 km",1st Owner,Petrol,MH47-AN6082,"₹14,233",₹7.28 Lakh,0,"Seawood
+"
+2021,Maruti,New,Wagon-R LXI CNG 1.0,Manual,"13,032 km",1st Owner,CNG,MH05-EQ3470,"₹12,199",₹6.24 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Maruti,IGNIS,DELTA 1.2,Manual,"56,219 km",2nd Owner,CNG,MH12-PH6801,"₹8,426",₹4.31 Lakh,0,"Goregaon, Mumbai"
+2014,Maruti,Wagon,R 1.0 LXI CNG,Manual,"1,05,898 km",2nd Owner,CNG,MH02-DN8711,"₹10,064",₹3.03 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Hyundai,Creta,SX PLUS AT 1.6 PETROL,Automatic,"60,607 km",2nd Owner,Petrol,MH04-HX0741,"₹15,589",₹8.19 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Maruti,S,PRESSO VXI+,Manual,"8,458 km",1st Owner,Petrol,MH46-BQ3206,"₹7,840",₹4.01 Lakh,0,"Goregaon, Mumbai"
+2020,Tata,ALTROZ,XZ PETROL,Manual,"27,102 km",1st Owner,Petrol,MH47-AU5357,"₹13,978",₹7.15 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Hyundai,Creta,SX AT 1.6 PETROL,Automatic,"50,441 km",1st Owner,Petrol,MH48-BH0006,"₹19,548",₹10.27 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Honda,City,1.5L I-VTEC V MT,Manual,"22,437 km",2nd Owner,Petrol,MH03-CM3502,"₹13,842",₹7.08 Lakh,0,"Goregaon, Mumbai"
+2021,Maruti,Ciaz,DELTA AT 1.5 SHVS PETROL,Automatic,"16,992 km",1st Owner,Petrol,MH04-KR3239,"₹17,652",₹9.27 Lakh,0,"Seawood
+"
+2016,Maruti,Baleno,DELTA CVT PETROL 1.2,Automatic,"58,631 km",2nd Owner,Petrol,MH01-CD6011,"₹9,677",₹4.95 Lakh,0,"Goregaon, Mumbai"
+2018,Hyundai,Creta,SX AT 1.6 PETROL,Automatic,"57,206 km",1st Owner,Petrol,MH01-DB6345,"₹19,605",₹10.3 Lakh,0,"Goregaon, Mumbai"
+2016,Maruti,Celerio,VXI CNG,Manual,"90,267 km",2nd Owner,CNG,MH02-EE7634,"₹8,853",₹3.98 Lakh,0,"Seawood
+"
+2019,Tata,NEXON,XZA PLUS PETROL,Automatic,"18,798 km",1st Owner,Petrol,MH01-DE5189,"₹16,084",₹8.45 Lakh,0,"Goregaon, Mumbai"
+2018,Tata,Tiago,XZ PETROL,Manual,"76,127 km",2nd Owner,Petrol,MH46-BE7414,"₹8,035",₹4.11 Lakh,0,"Mulund West, Mumbai 
+"
+2015,Hyundai,i10,SPORTZ 1.1,Manual,"54,825 km",2nd Owner,Petrol,MH02-DW5965,"₹6,139",₹3.14 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Jeep,Compass,LIMITED (O) 1.4 PETROL AT,Automatic,"38,696 km",2nd Owner,Petrol,MH03-DA0504,"₹24,535",₹12.89 Lakh,0,"Goregaon, Mumbai"
+2016,Honda,City,1.5L I-VTEC VX CVT,Automatic,"59,039 km",1st Owner,Petrol,MH01-CP2908,"₹12,258",₹6.27 Lakh,0,"Goregaon, Mumbai"
+2019,Maruti,S,PRESSO VXI+,Manual,"11,141 km",1st Owner,Petrol,MH02-FJ2158,"₹8,094",₹4.14 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Volkswagen,Ameo,HIGHLINE PLUS 1.5L AT 16 ALLOY,Automatic,"60,683 km",2nd Owner,Diesel,MH47-AN6954,"₹13,685",₹7 Lakh,0,"Goregaon, Mumbai"
+2015,Honda,City,1.5L I-VTEC SV,Manual,"41,887 km",2nd Owner,Petrol,MH05-CH4903,"₹10,068",₹5.15 Lakh,0,"Goregaon, Mumbai"
+2016,Hyundai,Creta,SX PLUS 1.6 PETROL,Manual,"71,684 km",1st Owner,Petrol,MH01-CD8985,"₹13,802",₹7.06 Lakh,0,"Goregaon, Mumbai"
+2020,Maruti,S,PRESSO VXI (O) AMT,Automatic,"13,440 km",1st Owner,Petrol,MH47-AU8859,"₹8,974",₹4.59 Lakh,0,"Mulund West, Mumbai 
+"
+2016,Maruti,Baleno,DELTA PETROL 1.2,Manual,"43,373 km",1st Owner,Petrol,MH47-Q2451,"₹9,423",₹4.82 Lakh,0,"Goregaon, Mumbai"
+2015,Hyundai,Creta,SX 1.6 DIESEL,Manual,"62,018 km",2nd Owner,Diesel,MH05-CM2909,"₹18,003",₹8.28 Lakh,0,"Goregaon, Mumbai"
+2017,Hyundai,Grand,i10 SPORTZ (O) AT 1.2 KAPPA VTVT,Automatic,"25,723 km",1st Owner,Petrol,MH47-W8580,"₹10,948",₹5.6 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Honda,WR-V,1.2L I-VTEC VX MT,Manual,"22,652 km",1st Owner,Petrol,MH02-EZ4913,"₹13,353",₹6.83 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Renault,Duster,RXS CVT,Automatic,"24,015 km",1st Owner,Petrol,MH43-BU2637,"₹14,917",₹7.63 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Mahindra,XUV300,W6 1.2 PETROL,Manual,"39,094 km",2nd Owner,Petrol,MH02-FE5823,"₹14,819",₹7.58 Lakh,0,"Seawood
+"
+2020,Hyundai,GRAND,I10 NIOS ASTA AMT 1.2 KAPPA VTVT,Automatic,"11,709 km",1st Owner,Petrol,MH01-DP2693,"₹13,626",₹6.97 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Maruti,IGNIS,ZETA 1.2 AMT DUAL TONE,Automatic,"38,048 km",2nd Owner,Petrol,MH19-CU1246,"₹9,286",₹4.75 Lakh,0,"Goregaon, Mumbai"
+2016,Hyundai,Creta,SX PLUS AT 1.6 PETROL,Automatic,"57,440 km",3rd Owner,Petrol,MH01-CH5969,"₹14,936",₹7.64 Lakh,0,"Goregaon, Mumbai"
+2021,Maruti,New,Wagon-R VXI 1.2,Manual,"18,693 km",1st Owner,Petrol,MH03-DU5217,"₹10,479",₹5.36 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Hyundai,Grand,i10 SPORTZ 1.2 KAPPA VTVT,Manual,"32,393 km",1st Owner,Petrol,MH01-DE2414,"₹9,795",₹5.01 Lakh,0,"Goregaon, Mumbai"
+2021,Maruti,Ciaz,ALPHA AT 1.5 SHVS PETROL,Automatic,"33,706 km",1st Owner,Petrol,MH03-DK9751,"₹17,987",₹9.45 Lakh,0,"Goregaon, Mumbai"
+2022,Mahindra,XUV300,W8 (O) 1.2 PETROL AMT,Automatic,"20,405 km",1st Owner,Petrol,MH04-KW9073,"₹21,451",₹11.27 Lakh,0,"Goregaon, Mumbai"
+2022,Maruti,New,Wagon-R ZXI 1.2,Manual,"20,987 km",1st Owner,Petrol,MH05-FB3370,"₹11,476",₹5.87 Lakh,0,"Seawood
+"
+2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,"62,669 km",1st Owner,Petrol,MH01-CT1513,"₹10,166",₹5.2 Lakh,0,"Goregaon, Mumbai"
+2020,Maruti,Ciaz,ALPHA AT 1.5 SHVS PETROL,Automatic,"23,697 km",1st Owner,Petrol,MH02-FJ3525,"₹16,864",₹8.86 Lakh,0,"Goregaon, Mumbai"
+2013,Skoda,Rapid,AMBITION 1.6 TDI CR MT PLUS,Manual,"81,513 km",1st Owner,Diesel,MH02-DG1746,"₹14,847",₹4.47 Lakh,0,"Mulund West, Mumbai 
+"
+2016,Maruti,Baleno,DELTA PETROL 1.2,Manual,"9,508 km",1st Owner,Petrol,MH48-AK2861,"₹9,912",₹5.07 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Hyundai,NEW,SANTRO SPORTZ CNG,Manual,"73,820 km",1st Owner,CNG,MH05-DS9073,"₹9,208",₹4.71 Lakh,0,"Mulund West, Mumbai 
+"
+2015,Honda,Jazz,1.2L I-VTEC V,Manual,"58,811 km",2nd Owner,Petrol,MH43-AT5373,"₹7,957",₹4.07 Lakh,0,"Goregaon, Mumbai"
+2018,Honda,City,1.5L I-VTEC V MT,Manual,"93,703 km",2nd Owner,Petrol,MH01-DB0756,"₹13,196",₹6.75 Lakh,0,"Goregaon, Mumbai"
+2020,Maruti,S,PRESSO VXI CNG,Manual,"37,608 km",1st Owner,CNG,MH46-BV0198,"₹8,231",₹4.21 Lakh,0,"Seawood
+"
+2021,Mahindra,XUV300,W8 (O) 1.2 PETROL AMT,Automatic,"41,278 km",1st Owner,Petrol,MH03-DU1760,"₹20,290",₹10.66 Lakh,0,"Mulund West, Mumbai 
+"
+2015,Maruti,Celerio,VXI CNG,Manual,"83,704 km",1st Owner,CNG,MH05-CM4089,"₹10,665",₹4.05 Lakh,0,"Goregaon, Mumbai"
+2018,Hyundai,Grand,i10 SPORTZ 1.2 KAPPA VTVT,Manual,"20,257 km",2nd Owner,Petrol,MH43-BN3791,"₹10,088",₹5.16 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Maruti,Wagon,R 1.0 LXI CNG,Manual,"48,605 km",2nd Owner,CNG,MH48-BH1711,"₹7,644",₹3.91 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Renault,Kwid,RXT 0.8,Manual,"37,515 km",2nd Owner,Petrol,MH47-AB1089,"₹5,670",₹2.9 Lakh,0,"Goregaon, Mumbai"
+2012,Honda,City,1.5L I-VTEC S MT,Manual,"80,218 km",1st Owner,Petrol,MH01-BF1300,"₹9,998",₹3.01 Lakh,0,"Seawood
+"
+2016,Maruti,Swift,Dzire VXI,Manual,"34,315 km",1st Owner,Petrol,MH05-CV0056,"₹9,247",₹4.73 Lakh,0,"Seawood
+"
+2017,Renault,Kwid,RXT 1.0 AMT (O),Automatic,"16,656 km",1st Owner,Petrol,MH01-CP6352,"₹6,178",₹3.16 Lakh,0,"Mulund West, Mumbai 
+"
+2015,Hyundai,i10,MAGNA 1.1,Manual,"58,859 km",1st Owner,Petrol,MH01-BY8828,"₹5,846",₹2.99 Lakh,0,"Goregaon, Mumbai"
+2014,Hyundai,i10,SPORTZ 1.1,Manual,"49,875 km",2nd Owner,CNG,MH48-S8832,"₹9,533",₹2.87 Lakh,0,"Seawood
+"
+2020,Hyundai,AURA,SX PLUS 1.2 AMT CRDI,Automatic,"58,033 km",2nd Owner,Diesel,MH05-EA8831,"₹13,372",₹6.84 Lakh,0,"Goregaon, Mumbai"
+2014,Maruti,Alto,800 LXI,Manual,"40,797 km",1st Owner,Petrol,MH02-DS6160,"₹4,845",₹2.18 Lakh,0,"Goregaon, Mumbai"
+2017,Hyundai,Elite,i20 SPORTZ 1.2,Manual,"11,293 km",1st Owner,Petrol,MH01-CP6995,"₹10,029",₹5.13 Lakh,0,"Mulund West, Mumbai 
+"
+2022,Hyundai,GRAND,I10 NIOS SPORTZ 1.2 KAPPA VTVT CNG,Manual,"11,942 km",1st Owner,CNG,MH43-BY9884,"₹13,001",₹6.65 Lakh,0,"Goregaon, Mumbai"
+2014,Hyundai,Grand,i10 ASTA 1.2 KAPPA VTVT,Manual,"35,272 km",1st Owner,Petrol,MH01-BU6737,"₹8,586",₹3.86 Lakh,0,"Goregaon, Mumbai"
+2019,Hyundai,NEW,SANTRO MAGNA,Manual,"16,489 km",1st Owner,Petrol,MH05-DS9285,"₹8,407",₹4.3 Lakh,0,"Mulund West, Mumbai 
+"
+2011,Hyundai,i20,SPORTZ (O) 1.2,Manual,"72,888 km",1st Owner,Petrol,MH01-AX6413,"₹12,333",₹2.62 Lakh,0,"Seawood
+"
+2019,MG,HECTOR,SHARP 1.5 DCT PETROL,Automatic,"18,601 km",2nd Owner,Petrol,MH43-BN7284,"₹26,971",₹14.17 Lakh,0,"Mulund West, Mumbai 
+"
+2015,Maruti,Wagon,R 1.0 LXI CNG,Manual,"81,560 km",1st Owner,CNG,MH02-DZ0149,"₹8,875",₹3.37 Lakh,0,"Seawood
+"
+2017,Honda,City,1.5L I-VTE V CVT,Automatic,"42,838 km",1st Owner,Petrol,MH01-CT6489,"₹13,978",₹7.15 Lakh,0,"Seawood
+"
+2022,Honda,Jazz,1.2L I-VTEC VX CVT,Automatic,"4,980 km",1st Owner,Petrol,MH03-DX3461,"₹17,245",₹9.06 Lakh,0,"Seawood
+"
+2015,Maruti,Celerio,VXI AMT,Automatic,"73,092 km",2nd Owner,Petrol,MH02-DW5830,"₹6,393",₹3.27 Lakh,0,"Goregaon, Mumbai"
+2011,Hyundai,i10,MAGNA 1.2,Manual,"32,454 km",1st Owner,Petrol,MH04-EX1622,"₹9,933",₹2.11 Lakh,0,"Mulund West, Mumbai 
+"
+2011,Toyota,Etios,Liva G,Manual,"75,420 km",1st Owner,Petrol,MH05-AX3915,"₹12,145",₹2.58 Lakh,0,"Goregaon, Mumbai"
+2017,Hyundai,Creta,SX PLUS AT 1.6 PETROL,Automatic,"86,350 km",1st Owner,Petrol,MH01-CP7778,"₹15,418",₹8.1 Lakh,0,"Mulund West, Mumbai 
+"
+2021,Maruti,Ciaz,DELTA AT 1.5 SHVS PETROL,Automatic,"29,291 km",1st Owner,Petrol,MH04-KR5936,"₹16,464",₹8.65 Lakh,0,"Seawood
+"
+2021,Mahindra,XUV300,W6 1.2 PETROL AMT,Automatic,"18,255 km",1st Owner,Petrol,MH03-DU9494,"₹16,693",₹8.77 Lakh,0,"Mulund West, Mumbai 
+"
+2015,Maruti,Wagon,R 1.0 LXI CNG,Manual,"65,098 km",1st Owner,CNG,MH12-MB5538,"₹8,927",₹3.39 Lakh,0,"Seawood
+"
+2020,Maruti,S,PRESSO VXI CNG,Manual,"26,321 km",1st Owner,CNG,MH05-EJ1359,"₹8,426",₹4.31 Lakh,0,"Goregaon, Mumbai"
+2020,Renault,TRIBER,RXZ,Manual,"49,842 km",1st Owner,Petrol,MH48-BT3401,"₹11,065",₹5.66 Lakh,0,"Seawood
+"
+2022,Tata,Safari,XZA PLUS ADVENTURE,Automatic,"42,408 km",1st Owner,Diesel,MH12-UC1579,"₹38,182",₹20.06 Lakh,0,"Goregaon, Mumbai"
+2022,Tata,ALTROZ,XZA PLUS DARK EDTION,Automatic,"16,783 km",1st Owner,Petrol,MH03-DX8602,"₹16,560",₹8.7 Lakh,0,"Mulund West, Mumbai 
+"
+2016,Maruti,Ciaz,VDI SHVS,Manual,"96,966 km",1st Owner,Diesel,MH02-EK3956,"₹11,065",₹5.66 Lakh,0,"Goregaon, Mumbai"
+2012,Maruti,Wagon,R 1.0 VXI,Manual,"32,422 km",1st Owner,Petrol,MH02-CP5199,"₹8,503",₹2.56 Lakh,0,"Mulund West, Mumbai 
+"
+2013,Hyundai,i20,MAGNA (O) 1.2,Manual,"55,257 km",2nd Owner,Petrol,MH04-GJ1625,"₹8,084",₹3.07 Lakh,0,"Mulund West, Mumbai 
+"
+2023,Hyundai,AURA,SX 1.2 CNG,Manual,"13,184 km",1st Owner,CNG,MH46-CM1483,"₹15,874",₹8.34 Lakh,0,"Goregaon, Mumbai"
+2021,Hyundai,AURA,SX 1.2,Manual,"14,950 km",1st Owner,Petrol,MH04-KW0075,"₹12,962",₹6.63 Lakh,0,"Goregaon, Mumbai"
+2015,Hyundai,Grand,i10 ASTA AT 1.2 KAPPA VTVT,Automatic,"54,434 km",2nd Owner,Petrol,MH02-DW6163,"₹7,820",₹4 Lakh,0,"Mulund West, Mumbai 
+"
+2021,Maruti,S,PRESSO VXI (O) CNG,Manual,"48,375 km",1st Owner,CNG,MH48-CC2530,"₹9,501",₹4.86 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Honda,City,1.5L I-VTEC VX,Manual,"49,504 km",1st Owner,Petrol,MH04-JM8846,"₹15,361",₹8.07 Lakh,0,"Goregaon, Mumbai"
+2021,Renault,TRIBER,RXZ AMT,Automatic,"35,517 km",1st Owner,Petrol,MH04-KR3417,"₹14,017",₹7.17 Lakh,0,"Seawood
+"
+2015,Maruti,Ertiga,ZXI,Manual,"70,559 km",1st Owner,CNG,MH46-AL9267,"₹17,775",₹6.75 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Honda,City,1.5L I-VTEC V MT,Manual,"47,801 km",1st Owner,Petrol,MH43-BN0569,"₹14,057",₹7.19 Lakh,0,"Goregaon, Mumbai"
+2021,Maruti,XL6,ALPHA MT,Manual,"48,740 km",1st Owner,Petrol,MH03-DK9843,"₹19,548",₹10.27 Lakh,0,"Goregaon, Mumbai"
+2018,Skoda,Rapid,STYLE 1.6 MPI,Manual,"64,953 km",1st Owner,Petrol,MH43-BK9492,"₹13,275",₹6.79 Lakh,0,"Seawood
+"
+2017,Renault,Kwid,RXT 0.8,Manual,"30,322 km",1st Owner,Petrol,MH43-BK4246,"₹6,256",₹3.2 Lakh,0,"Goregaon, Mumbai"
+2021,Toyota,URBAN,CRUISER HIGH GRADE AT,Automatic,"45,799 km",1st Owner,Petrol,MH02-FN6510,"₹18,634",₹9.79 Lakh,0,"Goregaon, Mumbai"
+2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,"29,835 km",1st Owner,Petrol,MH02-EP8040,"₹10,479",₹5.36 Lakh,0,"Goregaon, Mumbai"
+2017,Honda,City,1.5L I-VTE V CVT,Automatic,"32,899 km",2nd Owner,Petrol,MH47-W5285,"₹14,702",₹7.52 Lakh,0,"Goregaon, Mumbai"
+2021,Maruti,Alto,LXI,Manual,"26,866 km",1st Owner,Petrol,MH04-KR3974,"₹7,097",₹3.63 Lakh,0,"Mulund West, Mumbai 
+"
+2015,Hyundai,i20,Active 1.4 SX,Manual,"77,421 km",2nd Owner,Diesel,MH05-CK0221,"₹11,434",₹5.14 Lakh,0,"Goregaon, Mumbai"
+2015,Honda,Brio,S MT,Manual,"33,227 km",1st Owner,Petrol,MH01-BY4326,"₹6,698",₹3.43 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,Automatic,"56,522 km",1st Owner,Petrol,MH04-JV8770,"₹17,740",₹9.32 Lakh,0,"Goregaon, Mumbai"
+2022,Tata,NEXON,XZ PLUS PETROL SUNROOF,Manual,"35,275 km",1st Owner,Petrol,MH48-CC9634,"₹17,473",₹9.18 Lakh,0,"Mulund West, Mumbai 
+"
+2014,Maruti,Wagon,R 1.0 VXI,Manual,"43,024 km",1st Owner,Petrol,MH43-AR0236,"₹6,696",₹3.01 Lakh,0,"Mulund West, Mumbai 
+"
+2021,Tata,ALTROZ,XT PETROL,Manual,"43,417 km",1st Owner,Petrol,MH46-BV6205,"₹13,060",₹6.68 Lakh,0,"Goregaon, Mumbai"
+2016,Renault,Kwid,RXT 0.8 (O),Manual,"1,03,116 km",1st Owner,Petrol,MH46-AU2351,"₹6,206",₹2.79 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Hyundai,NEW,SANTRO SPORTZ CNG,Manual,"77,715 km",1st Owner,CNG,MH05-EA3108,"₹9,697",₹4.96 Lakh,0,"Goregaon, Mumbai"
+2021,Hyundai,VENUE,SX 1.0 TURBO IMT,Manual,"9,981 km",2nd Owner,Petrol,MH12-TD6035,"₹17,892",₹9.4 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Hyundai,i20,Active 1.2 SX,Manual,"21,643 km",2nd Owner,Petrol,MH02-EU9520,"₹11,906",₹6.09 Lakh,0,"Mulund West, Mumbai 
+"
+2014,Maruti,Celerio,VXI AMT,Automatic,"98,502 km",1st Owner,Petrol,MH43-AR5727,"₹7,074",₹3.18 Lakh,0,"Goregaon, Mumbai"
+2016,Ford,Ecosport,TITANIUM 1.5L PETROL AT,Automatic,"73,952 km",2nd Owner,Petrol,MH04-HU0490,"₹10,645",₹5.45 Lakh,0,"Goregaon, Mumbai"
+2015,Hyundai,i20,Active 1.2 SX,Manual,"1,16,615 km",1st Owner,Petrol,MH02-DZ6148,"₹9,543",₹4.29 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Hyundai,NEW,SANTRO SPORTZ MT,Manual,"9,954 km",1st Owner,Petrol,MH47-AG7825,"₹8,270",₹4.23 Lakh,0,"Seawood
+"
+2019,Hyundai,NEW,SANTRO ERA EXECUTIVE,Manual,"56,077 km",1st Owner,Petrol,MH46-BQ1966,"₹8,192",₹4.19 Lakh,0,"Goregaon, Mumbai"
+2017,Hyundai,Creta,E PLUS 1.6 PETROL,Manual,"43,358 km",1st Owner,Petrol,MH04-HX3024,"₹14,936",₹7.64 Lakh,0,"Goregaon, Mumbai"
+2018,Maruti,Swift,VDI AMT,Automatic,"57,407 km",2nd Owner,Diesel,MH47-AB4640,"₹11,316",₹5.79 Lakh,0,"Goregaon, Mumbai"
+2017,Hyundai,Elite,i20 SPORTZ 1.2,Manual,"53,262 km",1st Owner,Petrol,MH02-EK6643,"₹10,909",₹5.58 Lakh,0,"Goregaon, Mumbai"
+2016,Honda,City,1.5L I-VTEC VX CVT,Automatic,"51,329 km",2nd Owner,Petrol,MH01-DK1055,"₹12,317",₹6.3 Lakh,0,"Mulund West, Mumbai 
+"
+2013,Hyundai,Grand,i10 ASTA 1.2 KAPPA VTVT,Manual,"37,652 km",1st Owner,Petrol,MH02-CZ8854,"₹10,402",₹3.95 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Datsun,Redi,Go A,Manual,"50,310 km",1st Owner,Petrol,MH47-AG2940,"₹4,438",₹2.27 Lakh,0,"Goregaon, Mumbai"
+2018,Honda,Amaze,1.2L I-VTEC VX,Manual,"47,710 km",2nd Owner,Petrol,MH47-AG0110,"₹11,144",₹5.7 Lakh,0,"Seawood
+"
+2014,Hyundai,Xcent,S 1.2,Manual,"27,269 km",1st Owner,Petrol,MH02-DN3689,"₹8,675",₹3.9 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Maruti,Baleno,ZETA PETROL 1.2,Manual,"65,230 km",2nd Owner,Petrol,MH04-HX9023,"₹10,811",₹5.53 Lakh,0,"Seawood
+"
+2017,Skoda,Rapid,STYLE 1.6 MPI,Manual,"58,664 km",1st Owner,Petrol,MH01-CT3214,"₹12,160",₹6.22 Lakh,0,"Goregaon, Mumbai"
+2014,Hyundai,Grand,i10 SPORTZ 1.2 KAPPA VTVT,Manual,"29,810 km",2nd Owner,Petrol,MH43-AR1439,"₹6,807",₹3.06 Lakh,0,"Goregaon, Mumbai"
+2017,Maruti,Dzire,LXI,Manual,"89,378 km",2nd Owner,Petrol,MH03-CM7132,"₹8,758",₹4.48 Lakh,0,"Seawood
+"
+2014,Maruti,Swift,Dzire ZXI,Manual,"47,496 km",1st Owner,Petrol,MH04-GJ5693,"₹9,498",₹4.27 Lakh,0,"Goregaon, Mumbai"
+2021,Tata,NEXON,XZ PLUS PETROL SUNROOF,Manual,"26,645 km",1st Owner,Petrol,MH46-BZ5561,"₹17,568",₹9.23 Lakh,0,"Goregaon, Mumbai"
+2012,Hyundai,i10,SPORTZ 1.2,Manual,"35,431 km",2nd Owner,Petrol,MH04-FR5402,"₹8,237",₹2.48 Lakh,0,"Mulund West, Mumbai 
+"
+2015,Hyundai,i10,MAGNA 1.1,Manual,"22,225 km",1st Owner,Petrol,MH02-DZ9259,"₹6,354",₹3.25 Lakh,0,"Goregaon, Mumbai"
+2014,Hyundai,Grand,i10 SPORTZ 1.2 KAPPA VTVT,Manual,"1,00,116 km",1st Owner,Petrol,MH02-DW2275,"₹7,341",₹3.3 Lakh,0,"Mulund West, Mumbai 
+"
+2020,Hyundai,GRAND,I10 NIOS SPORTZ AMT 1.2 KAPPA VTVT,Automatic,"13,144 km",1st Owner,Petrol,MH47-AU5265,"₹13,294",₹6.8 Lakh,0,"Seawood
+"
+2020,Skoda,Rapid,STYLE TSI,Manual,"33,693 km",1st Owner,Petrol,MH47-AY2242,"₹18,596",₹9.77 Lakh,0,"Goregaon, Mumbai"
+2014,Maruti,Celerio,VXI AMT,Automatic,"32,718 km",1st Owner,Petrol,MH02-DR8019,"₹7,541",₹3.39 Lakh,0,"Goregaon, Mumbai"
+2015,Maruti,Alto,K10 VXI,Manual,"51,243 km",2nd Owner,Petrol,MH46-AL7748,"₹5,083",₹2.6 Lakh,0,"Mulund West, Mumbai 
+"
+2022,Tata,ALTROZ,XZA,Automatic,"10,206 km",1st Owner,Petrol,MH04-LH4869,"₹16,103",₹8.46 Lakh,0,"Goregaon, Mumbai"
+2016,Hyundai,i20,Active 1.2 SX,Manual,"50,568 km",2nd Owner,Petrol,MH43-BE0695,"₹9,580",₹4.9 Lakh,0,"Seawood
+"
+2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,"30,064 km",2nd Owner,Petrol,MH04-HX2959,"₹10,342",₹5.29 Lakh,0,"Goregaon, Mumbai"
+2015,Hyundai,Grand,i10 ASTA 1.2 KAPPA VTVT,Manual,"47,367 km",2nd Owner,Petrol,MH02-DZ6893,"₹8,094",₹4.14 Lakh,0,"Seawood
+"
+2014,Hyundai,Grand,i10 ASTA 1.2 KAPPA VTVT,Manual,"47,635 km",2nd Owner,Petrol,MH04-GM6963,"₹8,742",₹3.93 Lakh,0,"Mulund West, Mumbai 
+"
+2020,Hyundai,GRAND,I10 NIOS MAGNA CORPORATE EDITION 1.2 KAPPA VTVT,Manual,"18,332 km",1st Owner,Petrol,MH04-KR1577,"₹11,280",₹5.77 Lakh,0,"Seawood
+"
+2017,Maruti,Wagon,R 1.0 LXI CNG,Manual,"57,012 km",2nd Owner,CNG,MH47-W1252,"₹7,351",₹3.76 Lakh,0,"Seawood
+"
+2017,Datsun,Go,Plus T,Manual,"17,062 km",1st Owner,Petrol,MH03-CM1133,"₹5,806",₹2.97 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Honda,BR-V,1.5L I-VTEC S,Manual,"56,807 km",2nd Owner,Petrol,MH43-BK1503,"₹12,219",₹6.25 Lakh,0,"Goregaon, Mumbai"
+2017,Hyundai,Elite,i20 SPORTZ 1.2,Manual,"38,323 km",2nd Owner,Petrol,MH47-W1843,"₹10,674",₹5.46 Lakh,0,"Mulund West, Mumbai 
+"
+2013,Honda,Amaze,1.2L I-VTEC S,Manual,"43,540 km",1st Owner,Petrol,MH02-CZ7982,"₹8,875",₹3.37 Lakh,0,"Mulund West, Mumbai 
+"
+2019,MG,HECTOR,SHARP 1.5 DCT PETROL,Automatic,"64,742 km",1st Owner,Petrol,MH04-KD9919,"₹25,715",₹13.51 Lakh,0,"Goregaon, Mumbai"
+2019,Honda,Amaze,1.2L I-VTEC V CVT,Automatic,"39,531 km",1st Owner,Petrol,MH02-FE2265,"₹13,685",₹7 Lakh,0,"Seawood
+"
+2014,Maruti,Ertiga,VXI CNG,Manual,"62,157 km",2nd Owner,CNG,MH04-GU1655,"₹20,560",₹6.19 Lakh,0,"Goregaon, Mumbai"
+2013,Hyundai,Grand,i10 ERA 1.2 KAPPA VTVT,Manual,"46,035 km",1st Owner,Petrol,MH02-DG2705,"₹8,532",₹3.24 Lakh,0,"Mulund West, Mumbai 
+"
+2016,Maruti,Ertiga,VXI,Manual,"69,763 km",1st Owner,CNG,MH05-CV4816,"₹15,660",₹7.04 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Hyundai,Verna,1.6 VTVT SX O,Manual,"47,605 km",1st Owner,Petrol,MH46-BQ3447,"₹17,778",₹9.34 Lakh,0,"Goregaon, Mumbai"
+2021,Maruti,Baleno,ZETA PETROL 1.2,Manual,"14,955 km",1st Owner,Petrol,MH47-AY7696,"₹14,545",₹7.44 Lakh,0,"Seawood
+"
+2019,Hyundai,NEW,SANTRO SPORTZ CNG,Manual,"1,09,255 km",1st Owner,CNG,MH05-EA0045,"₹11,256",₹5.06 Lakh,0,"Seawood
+"
+2017,Maruti,Alto,800 LXI CNG O,Manual,"76,202 km",1st Owner,CNG,MH47-AB2478,"₹5,865",₹3 Lakh,0,"Goregaon, Mumbai"
+2017,Hyundai,Verna,1.6 SX (O) CRDI MT,Manual,"57,368 km",2nd Owner,Diesel,MH01-CT0840,"₹16,369",₹8.6 Lakh,0,"Mulund West, Mumbai 
+"
+2016,Maruti,Ciaz,VXI,Manual,"99,615 km",1st Owner,Petrol,MH43-AW1149,"₹8,895",₹4.55 Lakh,0,"Goregaon, Mumbai"
+2017,Renault,Kwid,RXT 0.8,Manual,"15,314 km",2nd Owner,Petrol,MH02-EP8725,"₹5,846",₹2.99 Lakh,0,"Mulund West, Mumbai 
+"
+2016,Hyundai,Elite,i20 SPORTZ 1.2,Manual,"50,900 km",1st Owner,Petrol,MH04-HM9598,"₹10,401",₹5.32 Lakh,0,"Mulund West, Mumbai 
+"
+2021,Maruti,Ciaz,SIGMA 1.5 SHVS MT PETROL,Manual,"16,909 km",1st Owner,Petrol,MH04-KR1054,"₹14,923",₹7.63 Lakh,0,"Seawood
+"
+2020,Tata,ALTROZ,XZ PETROL,Manual,"23,825 km",1st Owner,Petrol,MH05-EJ0392,"₹14,115",₹7.22 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Mahindra,TUV300,T6 PLUS,Manual,"45,368 km",1st Owner,Diesel,MH48-AW7186,"₹12,532",₹6.41 Lakh,0,"Mulund West, Mumbai 
+"
+2021,Tata,TIGOR,XE PETROL,Manual,"52,153 km",2nd Owner,Petrol,MH05-EQ3108,"₹10,616",₹5.43 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Hyundai,Creta,E PLUS 1.6 PETROL,Manual,"51,559 km",1st Owner,Petrol,MH01-CP2473,"₹15,073",₹7.71 Lakh,0,"Goregaon, Mumbai"
+2017,Hyundai,Creta,E PLUS 1.6 PETROL,Manual,"37,417 km",2nd Owner,Petrol,MH04-HU1207,"₹14,330",₹7.33 Lakh,0,"Goregaon, Mumbai"
+2014,Volkswagen,Polo,COMFORTLINE 1.2L,Manual,"96,926 km",2nd Owner,Petrol,MH43-AR0212,"₹7,964",₹3.58 Lakh,0,"Seawood
+"
+2013,Maruti,Swift,VDI,Manual,"63,284 km",1st Owner,Diesel,MH04-GJ8807,"₹13,186",₹3.97 Lakh,0,"Mulund West, Mumbai 
+"
+2019,Hyundai,Verna,1.6 VTVT SX O,Manual,"92,561 km",2nd Owner,Petrol,MH05-DZ9001,"₹17,359",₹9.12 Lakh,0,"Goregaon, Mumbai"
+2022,Maruti,XL6,ALPHA AT,Automatic,"24,494 km",1st Owner,Petrol,MH04-LB7602,"₹23,088",₹12.13 Lakh,0,"Goregaon, Mumbai"
+2014,Maruti,Swift,Dzire VXI,Manual,"42,022 km",1st Owner,Petrol,MH03-BJ9576,"₹8,675",₹3.9 Lakh,0,"Seawood
+"
+2015,Maruti,Baleno,ALPHA DIESEL 1.3,Manual,"59,958 km",2nd Owner,Diesel,MH05-CM8400,"₹12,412",₹5.58 Lakh,0,"Goregaon, Mumbai"
+2019,MG,HECTOR,SHARP 1.5 DCT PETROL,Automatic,"19,795 km",2nd Owner,Petrol,MH02-FE6441,"₹26,400",₹13.87 Lakh,0,"Mulund West, Mumbai 
+"
+2021,Tata,Tiago,XZA PLUS PETROL,Automatic,"8,115 km",1st Owner,Petrol,MH04-KW6245,"₹13,275",₹6.79 Lakh,0,"Seawood
+"
+2016,Maruti,Ertiga,VXI,Manual,"61,711 km",1st Owner,Petrol,MH03-CB9859,"₹13,020",₹6.66 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Hyundai,Grand,i10 SPORTZ AT 1.2 KAPPA VTVT,Automatic,"46,597 km",1st Owner,Petrol,MH04-JM2009,"₹10,909",₹5.58 Lakh,0,"Goregaon, Mumbai"
+2019,Renault,Kwid,RXT 1.0 AMT (O),Automatic,"22,924 km",1st Owner,Petrol,MH47-AN2645,"₹8,055",₹4.12 Lakh,0,"Goregaon, Mumbai"
+2014,Maruti,Alto,800 LXI,Manual,"40,783 km",1st Owner,Petrol,MH02-DN7563,"₹5,116",₹2.3 Lakh,0,"Mulund West, Mumbai 
+"
+2015,Hyundai,Verna,FLUIDIC 4S 1.6 VTVT S,Manual,"38,877 km",1st Owner,Petrol,MH47-A2188,"₹10,088",₹5.16 Lakh,0,"Goregaon, Mumbai"
+2021,Tata,Harrier,XZA PLUS 2.0L DARK EDITION,Automatic,"31,539 km",1st Owner,Diesel,MH03-DU4792,"₹36,583",₹19.22 Lakh,0,"Goregaon, Mumbai"
+2014,Hyundai,Elite,i20 SPORTZ 1.2 (O),Manual,"79,418 km",2nd Owner,Petrol,MH04-GM6226,"₹9,298",₹4.18 Lakh,0,"Goregaon, Mumbai"
+2015,Maruti,Wagon,R 1.0 VXI,Manual,"55,946 km",2nd Owner,Petrol,MH04-GU4603,"₹6,041",₹3.09 Lakh,0,"Goregaon, Mumbai"
+2015,Volkswagen,Polo,COMFORTLINE 1.2L,Manual,"30,163 km",2nd Owner,Petrol,MH01-CD4434,"₹8,016",₹4.1 Lakh,0,"Mulund West, Mumbai 
+"
+2018,Ford,FREESTYLE,TITANIUM 1.5 DIESEL,Manual,"75,160 km",1st Owner,Diesel,MH04-JM5304,"₹11,750",₹6.01 Lakh,0,"Mulund West, Mumbai 
+"
+2013,Maruti,Swift,Dzire VXI,Manual,"33,244 km",1st Owner,Petrol,MH02-CV7838,"₹10,744",₹4.08 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Hyundai,Elite,i20 SPORTZ 1.2,Manual,"19,288 km",1st Owner,Petrol,MH43-BK3740,"₹11,124",₹5.69 Lakh,0,"Goregaon, Mumbai"
+2017,Hyundai,Creta,E PLUS 1.6 PETROL,Manual,"93,555 km",2nd Owner,Petrol,MH01-CP6485,"₹13,255",₹6.78 Lakh,0,"Goregaon, Mumbai"
+2014,Hyundai,i10,SPORTZ 1.1,Manual,"40,543 km",2nd Owner,Petrol,MH01-BU6623,"₹6,762",₹3.04 Lakh,0,"Mulund West, Mumbai 
+"
+2015,Maruti,Wagon,R 1.0 LXI CNG,Manual,"68,302 km",1st Owner,CNG,MH43-AT2410,"₹8,856",₹3.36 Lakh,0,"Mulund West, Mumbai 
+"
+2022,Hyundai,GRAND,I10 NIOS SPORTZ 1.2 KAPPA VTVT CNG,Manual,"21,570 km",1st Owner,CNG,MH46-CE2970,"₹15,151",₹7.75 Lakh,0,"Mulund West, Mumbai 
+"
+2013,Maruti,Wagon,R 1.0 VXI,Manual,"45,304 km",1st Owner,Petrol,MH46-X5976,"₹7,452",₹2.83 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Ford,Ecosport,TREND 1.5L PETROL,Manual,"27,702 km",1st Owner,Petrol,MH04-JB0644,"₹11,554",₹5.91 Lakh,0,"Goregaon, Mumbai"
+2020,Honda,City,1.5L I-VTEC ZX,Manual,"27,473 km",1st Owner,Petrol,MH27-DA1874,"₹20,062",₹10.54 Lakh,0,"Goregaon, Mumbai"
+2017,Hyundai,Xcent,E+,Manual,"17,771 km",1st Owner,Petrol,MH47-W7603,"₹9,325",₹4.77 Lakh,0,"Goregaon, Mumbai"
+2022,Tata,ALTROZ,XZA PLUS,Automatic,"18,364 km",1st Owner,Petrol,MH03-EB1992,"₹17,549",₹9.22 Lakh,0,"Seawood
+"
+2018,Datsun,Redi,Go S 1.0 AMT,Automatic,"86,337 km",2nd Owner,Petrol,MH06-BU3782,"₹5,415",₹2.77 Lakh,0,"Goregaon, Mumbai"
+2018,Maruti,Wagon,R 1.0 LXI CNG,Manual,"65,313 km",1st Owner,CNG,MH05-DS2547,"₹8,016",₹4.1 Lakh,0,"Mulund West, Mumbai 
+"
+2021,Maruti,Baleno,ZETA CVT PETROL 1.2,Automatic,"14,683 km",1st Owner,Petrol,MH04-KW2857,"₹15,386",₹7.87 Lakh,0,"Seawood
+"
+2017,Maruti,Celerio,VXI CNG,Manual,"74,159 km",2nd Owner,CNG,MH04-JB5138,"₹8,016",₹4.1 Lakh,0,"Mulund West, Mumbai 
+"
+2014,Hyundai,Grand,i10 SPORTZ 1.2 KAPPA VTVT,Manual,"84,045 km",1st Owner,Petrol,MH43-AR3526,"₹7,485",₹3.37 Lakh,0,"Mulund West, Mumbai 
+"
+2021,Honda,Jazz,1.2L I-VTEC ZX CVT,Automatic,"10,102 km",1st Owner,Petrol,MH03-DU7784,"₹16,693",₹8.77 Lakh,0,"Goregaon, Mumbai"
+2017,Mahindra,XUV500,W6 AT,Automatic,"66,595 km",1st Owner,Diesel,MH46-BA1366,"₹15,503",₹7.93 Lakh,0,"Goregaon, Mumbai"
+2015,Maruti,Alto,K10 VXI AMT,Automatic,"57,838 km",2nd Owner,Petrol,MH48-AC6973,"₹5,298",₹2.71 Lakh,0,"Mulund West, Mumbai 
+"
+2021,Maruti,Baleno,ZETA PETROL 1.2,Manual,"27,156 km",1st Owner,Petrol,MH05-EQ1249,"₹14,057",₹7.19 Lakh,0,"Mulund West, Mumbai 
+"
+2017,Hyundai,Creta,SX PLUS AT 1.6 PETROL,Automatic,"22,311 km",1st Owner,Petrol,MH02-EP8223,"₹18,387",₹9.66 Lakh,0,"Goregaon, Mumbai"
+2018,Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,Manual,"93,826 km",1st Owner,Petrol,MH47-AG9222,"₹11,574",₹5.92 Lakh,0,"Goregaon, Mumbai"
+2013,Maruti,Alto,800 LXI,Manual,"25,399 km",2nd Owner,Petrol,MH48-S3266,"₹5,398",₹2.05 Lakh,0,"Mulund West, Mumbai 
+"
+2013,Hyundai,i10,SPORTZ 1.2 AT,Automatic,"48,080 km",2nd Owner,Petrol,MH43-AN0534,"₹7,637",₹2.9 Lakh,0,"Goregaon, Mumbai"
